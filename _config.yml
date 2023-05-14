@@ -21,7 +21,7 @@ header_pages: # Add items to the list below to add them to the header
    - index.markdown
    - about.markdown
    - experience.markdown
-   
+   - resume.markdown
 
 
 plugins: # DO NOT EDIT
