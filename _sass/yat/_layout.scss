@@ -597,12 +597,11 @@ html {
   .wrapper {
     height: 100%;
   }
-
+  
   .page-banner-inner {
     @include vertical-center(relative);
 
-    color: black;
-	background-color: white;
+    color: $banner-text-color;
     padding: 10px 5px;
     text-shadow: 1px 1px 2px #33333355;
 
@@ -681,6 +680,10 @@ html {
   }
 }
 
+.page-banner-heading .page-banner-subheading{
+	color: black
+	background-color: white;
+  }
 
 /**
  * Layout and sidebar
