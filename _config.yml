@@ -15,7 +15,7 @@ defaults: # DO NOT EDIT
    home: # DO NOT EDIT
      heading: "Chechnya, Post-Communist Eurasia, Eastern Europe" # Edit this for the big text on the home page
      subheading: "Researcher, Analyst, Consultant, Educator" # Edit this for the small text on the homepage
-     banner: "" # Edit this to change the image on the homepage
+     banner: "assets/img/Caucasus.svg" # Edit this to change the image on the homepage
 
 header_pages: # Add items to the list below to add them to the header
    - index.markdown
