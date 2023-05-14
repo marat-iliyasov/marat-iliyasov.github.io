@@ -12,7 +12,7 @@ html {
     header.site-header-transparent {
       height: 0;
       margin-top: 12px;
-      background-color: transparent;
+      /*background-color: transparent;*/
       transition: 0.1s height,background-color,box-shadow;
 
       &.site-header {
@@ -597,13 +597,15 @@ html {
   .wrapper {
     height: 100%;
   }
+  .page-banner-default {
+		background-color: #ffffffd4;
+  }
+  
   .page-banner-heading {
 	color: black;
-	background-color: #ffffffb3;
   }
    .page-banner-subheading {
 	color: black;
-	background-color: #ffffffb3;
   }
   
   .page-banner-inner {
