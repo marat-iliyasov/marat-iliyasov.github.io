@@ -601,7 +601,7 @@ html {
   .page-banner-inner {
     @include vertical-center(relative);
 
-    color: $banner-text-color;
+    color: black;
     padding: 10px 5px;
     text-shadow: 1px 1px 2px #33333355;
 
