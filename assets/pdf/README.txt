@@ -1,0 +1,1 @@
+To replace your resume, delete the resume.pdf in this folder and replace it with a new one (make sure it's named resume.pdf)
