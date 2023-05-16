@@ -22,6 +22,9 @@ header_pages: # Add items to the list below to add them to the header
    - about.markdown
    - experience.markdown
    - resume.markdown
+   - publications.markdown
+   - research projects.markdown
+   - portfolio.markdown
 
 
 plugins: # DO NOT EDIT
