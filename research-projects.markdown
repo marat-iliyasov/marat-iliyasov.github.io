@@ -1,8 +1,9 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: research projects
+permalink: /research-projects/
 ---
+
 **Work in progress**
 
 Iliyasov, M., Yakova, L, and Bogdanova V. "**Religion and State in Russia and Bulgaria: ethnic minorities and national identity."** (Forthcoming in *Ethnicities*).
