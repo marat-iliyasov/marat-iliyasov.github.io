@@ -1,9 +1,9 @@
 ---
 layout: default
-title: research projects
+title: Research Projects
 permalink: /research-projects/
 ---
-
+# Research Projects
 **Work in progress**
 
 Iliyasov, M., Yakova, L, and Bogdanova V. "**Religion and State in Russia and Bulgaria: ethnic minorities and national identity."** (Forthcoming in *Ethnicities*).
@@ -18,6 +18,6 @@ Iliyasov, M., (2023). **"Russia and the Russian-Chechen Conflict in the Collecti
 
 Iliyasov, M., (2023). **"Radicalization in Russia and state's response to it."** In Hellyer H. and Grossman, M. (eds.) *Routledge Handbook on the Religious Radicalization.* Bloomsbury (forthcoming).
 
-Iliyasov, M., (2023). "**The controversies of memory politics in authoritarian Chechnya." In Budryte, D. et al. (eds.) ***Routledge Handbook on the Memory in the Eastern Europe. (forthcoming).*
+Iliyasov, M., (2023). "**The controversies of memory politics in authoritarian Chechnya." In Budryte, D. et al. (eds.)** *Routledge Handbook on the Memory in the Eastern Europe. (forthcoming).*
 
-Iliyasov, M., (2023). "**Chechnya: a unique case for the Russian Federation**". In Hale, H. et al. (eds.) D*evelopments in Russian Politics. Textbook. *Bloomsbury (forthcoming).
+Iliyasov, M., (2023). "**Chechnya: a unique case for the Russian Federation**". In Hale, H. et al. (eds.) D*evelopments in Russian Politics. Textbook. *Bloomsbury (forthcoming)*.
