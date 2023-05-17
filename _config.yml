@@ -23,7 +23,7 @@ header_pages: # Add items to the list below to add them to the header
    - experience.markdown
    - resume.markdown
    - publications.markdown
-   - research projects.markdown
+   - research-projects.markdown
    - portfolio.markdown
 
 
