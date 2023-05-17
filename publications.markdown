@@ -4,8 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-# publications
-Peer-reviewed articles
+# Publications
+## Peer-reviewed articles
 
 Iliyasov, M. (2022). **"Dynamics in state-religion relations in post-communist Central Eastern Europe and Russia."** *Religion, State and Society* 4, 415-435 with D. Vekony & E. Račius (2022 impact factor 1.45)
 
@@ -27,7 +27,7 @@ Iliyasov, M., (2022). **"Religious legitimation: ****indoctrination, de-legitima
 
 Iliyasov, M., (2020). **"Governance of religion in Russia: what, how, and why."** In Triandafyllidou, A. and Magazzini, T. (eds.) *Routledge Handbook on the Governance of Religious Diversity.* Routledge, 131-145.
 
-non-referenced book chapters and reports
+## Non-referenced Book Chapters and Reports
 
 Iliyasov, M., (2020). Report. **Radicalization and Resilience. Case Study: Russia**. <http://grease.eui.eu/wp-content/uploads/sites/8/2020/10/WP4-Report_Russia-1.pdf>
 
@@ -43,11 +43,11 @@ Iliyasov, M., (2008). **"Models of Behaviour and Islam in Chechen Society."** In
 
 Iliyasov, M., (2007). **"The Impact of the Regional Organisations to the Dis/Integration of the CIS." **In Motieka, Egidijus (ed.). *Nepriklausomų valstybių sandraugos raidos tendencijos: integraciją skatinantys ir ribojantys veiksniai* [CIS: Factors Restraining and Stimulating Integration and Development]. Vilnius: University Press, 35-69.
 
-**Book reviews**
+## Book reviews
 
 Iliyasov, M. (2020). From Conquest to Deportation: The North Caucasus under Russian Rule, written by Jeronim Perović. *Journal of Muslims in Europe*, *9*(1), 131-134.(<https://doi.org/10.1163/22117954-12341414>)
 
-**Media contributions and interviews**
+## Media contributions and interviews
 
 - Iliyasov, M. April 17, 2023. Why it is important to study memory politics?  https://sites.miamioh.edu/havighurst/2023/04/17/why-it-is-important-to-study-memory-politics/
 
