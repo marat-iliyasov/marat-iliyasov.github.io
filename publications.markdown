@@ -19,7 +19,7 @@ Iliyasov, M. (2018). "**Chechen Ethnic Identity: Assessing the Change from Resis
 
 Iliyasov, M. (2017) **"Researching Chechen Diaspora in Europe: the Issues Faced."** *Inter-Disciplinary Political Science Journal 3,* (1), 201-218.
 
-Iliyasov, M. (2012). **"Instability in the North Caucasus: Reasons, Factors, and Implications****." ***Caucasus and Globalization* 6, no. 3, 48-58
+Iliyasov, M. (2012). **"Instability in the North Caucasus: Reasons, Factors, and Implications."** *Caucasus and Globalization* 6, no. 3, 48-58
 
 **Chapters in edited volumes**
 
