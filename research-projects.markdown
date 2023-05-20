@@ -6,18 +6,18 @@ permalink: /research-projects/
 # Research Projects
 **Work in progress**
 
-Iliyasov, M., Yakova, L, and Bogdanova V. "**Religion and State in Russia and Bulgaria: ethnic minorities and national identity."** (Forthcoming in *Ethnicities*).
+***Procreation for the sake of the nation ******(under supervision of Professor Rick Fawn and Dr. Jeffrey Murer, University of St Andrews)***
 
-Iliyasov, M. and Herrera, Y. "**Russia's war strategies: what Chechnya suggests for Ukraine"** (Under review in The Journal of Slavic Military Studies).
+*This book is a book project based on my Ph.D. dissertation. It is about Chechen determination to survive as a nation by growing numerically despite the war and despair.*
 
-Iliyasov, M. (2023) **"Clash of collective memories **in post-war Chechnya". (Under review in *Post-Communist Affairs*).****
+Abstract
 
-Iliyasov, M., (2023). **"The critical points of Chechen collective memory."** In D. Budryte and V. Davoliute (eds.) *The Routledge Handbook of Memory in Central and Eastern Europe. *Routledge (forthcoming). 
+Your country is at war, your fiancé is hunted by enemy forces, public services are shuttered, and you have little to no possibility to earn a living... Would you plan to get married and have a child in such a situation? If you were a Chechen, you would. As I observed personally, many Chechens were opting to have a family during the 1994-1996 war with Russia that was destroying this small region in the North Caucasus. The pattern repeated during the second, even more brutal Russo-Chechen war in 1999-2009. This predisposition to have family and children that I noticed in war-torn Chechnya is confirmed by the available scholarly estimates of birth rates in Chechnya during the war and post-war demographic statistics. Statistical analysis confirms the tendency of Chechen demographic growth, which is striking and anomalous in the context of the general population decline in the Russian Federation. According to censuses and estimates, the Chechen nation grows 5-10% faster than even the neighboring North Caucasian ethnic groups, that live in similarly urbanized and almost the same economic, religious, and sociocultural environments. I attribute this phenomenon to the war-related loss, which constituted up to 20% of the Chechen population. 
 
-Iliyasov, M., (2023). **"Russia and the Russian-Chechen Conflict in the Collective Memory of Chechen Migrants in Europe."** In C. Druey, M., Shogenov, and V., Tanailova (eds.) Fighting for Self-Determination, Participation and Stability State-building, Civil Society and the Role of Historical Memories in Chechnya (1986 -- 2021) Peter Lang Publishers (forthcoming).
+Chechnya: the battle over the past for the sake of future (under supervision of Professor Yoshiko Herrera, Wisconsin Russia Project)
 
-Iliyasov, M., (2023). **"Radicalization in Russia and state's response to it."** In Hellyer H. and Grossman, M. (eds.) *Routledge Handbook on the Religious Radicalization.* Bloomsbury (forthcoming).
+*This book is about Chechen collective memories and their political importance for the future of Chechnya and the world.*
 
-Iliyasov, M., (2023). "**The controversies of memory politics in authoritarian Chechnya." In Budryte, D. et al. (eds.)** *Routledge Handbook on the Memory in the Eastern Europe. (forthcoming).*
+Abstract
 
-Iliyasov, M., (2023). "**Chechnya: a unique case for the Russian Federation**". In Hale, H. et al. (eds.) D*evelopments in Russian Politics. Textbook. *Bloomsbury (forthcoming)*.
+Chechnya. This geographically insignificant republic in the North Caucasus has a disproportionate political influence on the world. Many still remember how for the first time it made international news by declaring sovereignty in the early 1990s. Its political importance since then grew enormously and turned Chechnya into an object of regular discussion by world politicians, journalists, and scholars. The larger and not necessarily professional audience also associate Chechnya with either the brutality of the current puppet regime that rules the republic since the 2000s or the Russian aggression that Chechnya had to withstand twice in the 1990s and 2000s. However, this book is not about Russia's neo-colonial wars in Chechnya, which are nonetheless discussed in it. Neither it is about the determination of the Chechen people to defend their right to be free, which they proved during approximately 250 years of confrontation with Russia. This book is about Chechen collective memories and their political importance for the future of this tiny republic and the world. In this book, I seek to achieve five goals. First, I aim to determine what historical events became or are likely to become collective memories of the Chechen nation. My second goal is to analyze how collective memories were employed by the two confronting Chechen political elites. Third, I intend to establish which collective memories are the most contested by the said political elites. Fourth, I plan to determine which of the collective memories promoted by the political elites are being accepted or most likely to be accepted by the Chechens. Based on this analysis, my last goal is to outline scenarios of the political future for Chechnya and draw the implications that fulfilment of these scenarios might have beyond the borders of the republic.
