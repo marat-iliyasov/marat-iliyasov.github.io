@@ -6,8 +6,10 @@ permalink: /portfolio/
 
 # Portfolio
 
-- Extensive research (online and field) on post-Communist Eurasia
+- Open-source research on post-Communist Eurasia in Russian, Lithuanian, and Chechen
 
-- Political, economic, and societal analysis of authoritarian regimes in Eurasia
+- Semi-structured and in-depth interviews with people at risk on sensitive topics 
 
 - Writing academic articles, reports, policy memos, policy recommendations
+
+- Presenting findings to the professional and non-professional audiences 
