@@ -11,6 +11,6 @@ permalink: /experience/
 
 - 7 years of teaching in Higher Education (Scotland and US)
 
-- 2 years in government consultancy 
-
 - 4 years plus in non-governmental sector 
+
+- 2 years in government consultancy 
