@@ -18,4 +18,4 @@ permalink: /about/
 - I have some experience of working in the NGO sector. With the beginning of the second Russo-Chechen war and the influx of Chechen refugees to Lithuania in 1999, I established an NGO, which designed and implemented projects that aimed to facilitate integration of Chechen children into Lithuanian society. My experience with NGO continued in Georgia, where in 2011-2013 I worked in "Caucasian House" in the project that aimed to build communication between mid-level Georgian and Russian professionals to create a background for peace dialogue.
  
 
-email: marat.ilyasov@gmail.com
+
