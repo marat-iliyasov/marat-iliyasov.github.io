@@ -29,7 +29,10 @@ After the collapse of Communism, a major overhaul of the systems of religious go
 Religion can play very diverse roles in the political and mundane life of states and people. It can be a source of collective identity, it can contribute to domestic stability, and it also can strengthen the state's stance on the international arena. However, religion can be a destabilizing factor too. It can be and often is used to provoke and fuel international conflict and domestic unrest. The negative role of religion is the focus of this report, which analyses the religious radicalization in the Russian Federation.
 
 
-**Work in progress**
+
+
+
+**WORK IN PROGRESS**
 
 *****Procreation for the sake of the nation ********(under supervision of Professor Rick Fawn and Dr. Jeffrey Murer, University of St Andrews)***
 
