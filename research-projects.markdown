@@ -38,7 +38,7 @@ Religion can play very diverse roles in the political and mundane life of states
 
 <img height="250px" src="https://marat-iliyasov.github.io/assets/img/wedding.jpg" alt="Photo of the secret wedding during war in Chechnya">
 
-*This book is a book project based on my Ph.D. dissertation. It is about Chechen determination to survive as a nation by growing numerically despite the war and despair.*
+*This book is about Chechen determination to survive as a nation by growing numerically despite the war and despair.*
 
 **Abstract**
 
