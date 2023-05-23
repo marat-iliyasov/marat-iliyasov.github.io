@@ -10,7 +10,7 @@ permalink: /research-projects/
 
 *****EU-funded Global Research
 
-<img height="250px" src="https://marat-iliyasov.github.io/assets/img/temple.JPG" alt="temple foto">
+<img height="250px" src="https://marat-iliyasov.github.io/assets/img/temple.jpeg" alt="Photo of The Temple of all religions">
 
 What can Europe learn from other parts of the world about governing religious diversity? The GREASE project has been finding out. Our consortium brought together researchers and eminent scholars from Europe, South & Southeast Asia, Asia Pacific and the MENA region. Together we spent four years investigating how religious diversity is governed in over two dozen countries. Comparing norms, laws and practices, we tried to ascertain what is useful (or not useful) in preventing religious radicalization. Our research also shed light on different societal approaches to accommodating religious minorities and migrants.
 
@@ -36,7 +36,7 @@ Religion can play very diverse roles in the political and mundane life of states
 
 *****Procreation for the sake of the nation ********(under supervision of Professor Rick Fawn and Dr. Jeffrey Murer, University of St Andrews)***
 
-<img height="250px" src="https://marat-iliyasov.github.io/assets/img/wedding.JPG" alt="Wedding foto">
+<img height="250px" src="https://marat-iliyasov.github.io/assets/img/wedding.jpeg" alt="Photo of the secret wedding during war in Chechnya">
 
 *This book is a book project based on my Ph.D. dissertation. It is about Chechen determination to survive as a nation by growing numerically despite the war and despair.*
 
@@ -48,7 +48,7 @@ Your country is at war, your fiancé is hunted by enemy forces, public services 
 
 **Chechnya: the battle over the past for the sake of future** (under supervision of Professor Yoshiko Herrera, Wisconsin Russia Project)
 
-<img height="250px" src="https://marat-iliyasov.github.io/assets/img/chechnya.JPG" alt="Memory of Deportation">
+<img height="250px" src="https://marat-iliyasov.github.io/assets/img/chechnya.jpeg" alt="Photo of a woman mourning the victims of the Deportation during the war in Chechnya">
 
 *This book is about Chechen collective memories and their political importance for the future of Chechnya and the world.*
 
