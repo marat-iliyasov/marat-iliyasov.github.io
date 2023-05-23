@@ -21,7 +21,7 @@ permalink: /publications/
 
 2012  **Instability in the North Caucasus: Reasons, Factors, and Implications** *Caucasus and Globalization* 6, no. 3, 48-58
 
-**Chapters in edited volumes**
+## Chapters in edited volumes
 
 2022  **[Religious legitimation: indoctrination, de-legitimation, and pacification efforts in Chechnya](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003090632-6/religious-self-legitimation-indoctrination-pacification-efforts-chechen-government-marat-iliyasov).** In G. Yemelianova and E. Racius (eds.) *Routledge Handbook. Muslims of Post-Communist Eurasia*. Routledge.
 
