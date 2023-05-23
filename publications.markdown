@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Publications
@@ -7,62 +8,60 @@ permalink: /publications/
 # Publications
 ## Peer-reviewed articles
 
-Iliyasov, M. (2022). **"Dynamics in state-religion relations in post-communist Central Eastern Europe and Russia."** *Religion, State and Society* 4, 415-435 with D. Vekony & E. Račius (2022 impact factor 1.45)
+2022 **["Dynamics in state-religion relations in post-communist Central Eastern Europe and Russia."](https://doi.org/10.1080/09637494.2022.2127591)** *Religion, State and Society* 4, 415-435 with D. Vekony & E. Račius (2022 impact factor 1.45)
 
-Iliyasov, M. (2021) **"Security and religion -- the discursive legitimation of the Chechen authorities."** *Journal of Muslims in Europe 10, 1-29* (2022 impact factor 0.52)
+2021 **"[Security and religion -- the discursive legitimation of the Chechen authorities](https://brill.com/view/journals/jome/10/3/article-p247_2.xml)."** *Journal of Muslims in Europe 10, 1-29* (2022 impact factor 0.52)
 
-Iliyasov, M. (2021). **"To be or not to be a Chechen? The second generation of Chechens in Europe and their choices of identity."** *The Frontiers of Sociology* (**2022 impact factor 2.28. Article's impact; 10447 views; view rank more than 99% in 2023**).
+2021 **"[To be or not to be a Chechen? The second generation of Chechens in Europe and their choices of identity](https://doi.org/10.3389/fsoc.2021.631961)."** *The Frontiers of Sociology* (**2022 impact factor 2.28. Article's impact; 10447 views; view rank more than 99% in 2023**).
 
-Iliyasov, M. (2019). **"Chechen Demographic Growth as a Reaction to Conflict: The Views of Chechens.**" *Europe-Asia Studies*, *71*(10), 1705-1733. (2020 impact factor 2.108)
+2019 **"[Chechen Demographic Growth as a Reaction to Conflict: The Views of Chechens](https://doi.org/10.1080/09668136.2019.1602593).**" *Europe-Asia Studies*, *71*(10), 1705-1733. (2020 impact factor 2.108)
 
-Iliyasov, M. (2018). "**Chechen Ethnic Identity: Assessing the Change from Resistance to Submission."** *Middle Eastern Studies 54,* (3), 475-493. (2020 impact factor 0.45)
+2018 "**[Chechen Ethnic Identity: Assessing the Change from Resistance to Submission](https://doi.org/10.1080/00263206.2018.1423967)."** *Middle Eastern Studies 54,* (3), 475-493. (2020 impact factor 0.45)
 
-Iliyasov, M. (2017) **"Researching Chechen Diaspora in Europe: the Issues Faced."** *Inter-Disciplinary Political Science Journal 3,* (1), 201-218.
+2017 **"[Researching Chechen Diaspora in Europe: the Issues Faced](http://siba-ese.unisalento.it/index.php/idps/article/view/17314)."** *Inter-Disciplinary Political Science Journal 3,* (1), 201-218.
 
-Iliyasov, M. (2012). **"Instability in the North Caucasus: Reasons, Factors, and Implications."** *Caucasus and Globalization* 6, no. 3, 48-58
+2012 **"Instability in the North Caucasus: Reasons, Factors, and Implications."** *Caucasus and Globalization* 6, no. 3, 48-58
 
 **Chapters in edited volumes**
 
-Iliyasov, M., (2022). **"Religious legitimation: indoctrination, de-legitimation, and pacification efforts in Chechnya."** In G. Yemelianova and E. Racius (eds.). *Routledge Handbook. Muslims of Post-Communist Eurasia*. Routledge.
+2022 **"[Religious legitimation: indoctrination, de-legitimation, and pacification efforts in Chechnya](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003090632-6/religious-self-legitimation-indoctrination-pacification-efforts-chechen-government-marat-iliyasov)."** In G. Yemelianova and E. Racius (eds.). *Routledge Handbook. Muslims of Post-Communist Eurasia*. Routledge.
 
-Iliyasov, M., (2020). **"Governance of religion in Russia: what, how, and why."** In Triandafyllidou, A. and Magazzini, T. (eds.) *Routledge Handbook on the Governance of Religious Diversity.* Routledge, 131-145.
+2020 **"[Governance of religion in Russia: what, how, and why](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003083405-15/russia-marat-iliyasov)."** In Triandafyllidou, A. and Magazzini, T. (eds.) *Routledge Handbook on the Governance of Religious Diversity.* Routledge, 131-145.
 
 ## Non-referenced Book Chapters and Reports
 
-Iliyasov, M., (2020). Report. **Radicalization and Resilience. Case Study: Russia**. <http://grease.eui.eu/wp-content/uploads/sites/8/2020/10/WP4-Report_Russia-1.pdf>
+2020 Report. **[Radicalization and Resilience. Case Study: Russia](http://grease.eui.eu/wp-content/uploads/sites/8/2020/10/WP4-Report_Russia-1.pdf)**. 
 
-Iliyasov, M., (2019). Report. **"Radicalization in Russia. The roots and causes of Islamist radicalization in Russia: the state's response."**<http://grease.eui.eu/wp-content/uploads/sites/8/2019/10/Russia-Report.pdf>
+2019 Report. **"[Radicalization in Russia. The roots and causes of Islamist radicalization in Russia: the state's response](http://grease.eui.eu/wp-content/uploads/sites/8/2019/10/Russia-Report.pdf)."**
 
-Triandafyllidou, A., H. Gülalp, M. Iliyasov, G., Mahajan, and E. Racius, (2019). **"Nation and Religion-Reflections on Europe, the MENA Region and South Asia."**
+2019 **"[Nation and Religion-Reflections on Europe, the MENA Region and South Asia] (with Triandafyllidou, A., H. Gülalp, G., Mahajan, and E. Racius) (http://grease.eui.eu/wp-content/uploads/sites/8/2019/05/GREASE-concept-paper_D1.3_Nation-and-Religion_30May2019_FINAL1-2.pdf)."**
 
-<http://grease.eui.eu/wp-content/uploads/sites/8/2019/05/GREASE-concept-paper_D1.3_Nation-and-Religion_30May2019_FINAL1-2.pdf>
+2013 **"Odds and Peculiarities of Family Life in the Caucasus."** In Sipaviciene, Audra, and Rita Augutiene (eds.). *Handbook for Social Workers*. Vilnius: Baltijos kopija, 99-125.
 
-Iliyasov, M., (2013). **"Odds and Peculiarities of Family Life in the Caucasus."** In Sipaviciene, Audra, and Rita Augutiene (eds.). *Handbook for Social Workers*. Vilnius: Baltijos kopija, 99-125.
+2008 **"Models of Behaviour and Islam in Chechen Society."** In Sipaviciene, Audra, and Rita Augutiene (eds.). *Handbook for Social Workers*. Vilnius: Baltijos kopija, 35-48.
 
-Iliyasov, M., (2008). **"Models of Behaviour and Islam in Chechen Society."** In Sipaviciene, Audra, and Rita Augutiene (eds.). *Handbook for Social Workers*. Vilnius: Baltijos kopija, 35-48.
-
-Iliyasov, M., (2007). **"The Impact of the Regional Organisations to the Dis/Integration of the CIS."** In Motieka, Egidijus (ed.). *Nepriklausomų valstybių sandraugos raidos tendencijos: integraciją skatinantys ir ribojantys veiksniai* [CIS: Factors Restraining and Stimulating Integration and Development]. Vilnius: University Press, 35-69.
+2007 **"The Impact of the Regional Organisations to the Dis/Integration of the CIS."** In Motieka, Egidijus (ed.). *Nepriklausomų valstybių sandraugos raidos tendencijos: integraciją skatinantys ir ribojantys veiksniai* [CIS: Factors Restraining and Stimulating Integration and Development]. Vilnius: University Press, 35-69.
 
 ## Book reviews
 
-Iliyasov, M. (2020). From Conquest to Deportation: The North Caucasus under Russian Rule, written by Jeronim Perović. *Journal of Muslims in Europe*, *9*(1), 131-134.(<https://doi.org/10.1163/22117954-12341414>)
+2020 [**From Conquest to Deportation: The North Caucasus under Russian Rule**](https://doi.org/10.1163/22117954-12341414), written by Jeronim Perović. *Journal of Muslims in Europe*, *9*(1), 131-134.
 
 ## Media contributions and interviews
 
-- Iliyasov, M. April 17, 2023. Why it is important to study memory politics?  https://sites.miamioh.edu/havighurst/2023/04/17/why-it-is-important-to-study-memory-politics/
+- April 17, 2023. [**Why it is important to study memory politics?**](https://sites.miamioh.edu/havighurst/2023/04/17/why-it-is-important-to-study-memory-politics/) 
 
-- Iliyasov, M. December 16, 2022. [The Chechen Footprint During Russian Wartime  -- PONARS Eurasia](https://www.ponarseurasia.org/the-chechen-footprint-during-russian-wartime/)
+- December 16, 2022. [**The Chechen Footprint During Russian Wartime  -- PONARS Eurasia**](https://www.ponarseurasia.org/the-chechen-footprint-during-russian-wartime/)
 
-- Iliyasov, M. and Herrera, Y. April 24, 2022.[Similarities Stain the Kremlin's Warfare on Chechens and Ukrainians - PONARS Eurasia](https://www.ponarseurasia.org/similarities-stain-the-kremlins-warfare-on-chechens-and-ukrainians/)
+-  April 24, 2022.[**Similarities Stain the Kremlin's Warfare on Chechens and Ukrainians - PONARS Eurasia**](https://www.ponarseurasia.org/similarities-stain-the-kremlins-warfare-on-chechens-and-ukrainians/) (with Yoshiko Herrera).
 
-- Iliyasov, M. March 19, 2022. [Moscow's Manipulated Memory Politics and Attack on Ukraine - PONARS Eurasia](https://www.ponarseurasia.org/moscows-manipulated-memory-politics-and-attack-on-ukraine/)
+- March 19, 2022. [**Moscow's Manipulated Memory Politics and Attack on Ukraine - PONARS Eurasia**](https://www.ponarseurasia.org/moscows-manipulated-memory-politics-and-attack-on-ukraine/)
 
-- Iliyasov, M. October 19, 2020. **Russia's imaginary radicals**. <https://www.opendemocracy.net/en/global-extremes/russias-imaginary-radicals/>
+- October 19, 2020. [**Russia's imaginary radicals**](https://www.opendemocracy.net/en/global-extremes/russias-imaginary-radicals/)
 
-- Iliyasov, M. September 30, 2020. **The war that can become bloody: If Russia's and Turkey's collision over Nagorno Karabakh is possible?**<https://www.delfi.lt/news/daily/lithuania/karas-kuris-gali-tapti-itin-kruvinas-ar-imanomas-turkijos-ir-rusijos-susidurimo-scenarijus.d?id=85369313&fbclid=IwAR22v91Mo8nqrRvAA9fJgukbCKyl-a78dAEv_Z69taBEEMEflyvTLeEi5fM>
+- September 30, 2020. **[**The war that can become bloody: If Russia's and Turkey's collision over Nagorno Karabakh is possible?**](https://www.delfi.lt/news/daily/lithuania/karas-kuris-gali-tapti-itin-kruvinas-ar-imanomas-turkijos-ir-rusijos-susidurimo-scenarijus.d?id=85369313&fbclid=IwAR22v91Mo8nqrRvAA9fJgukbCKyl-a78dAEv_Z69taBEEMEflyvTLeEi5fM)**
 
-- Iliyasov, M. April 17, 2019. **Ingushetia fears outbreak of violence** <https://www.balcanicaucaso.org/eng/Areas/Ingushetia/Ingushetia-fears-outbreaks-of-violence-194009>
+- April 17, 2019. [**Ingushetia fears outbreak of violence**](https://www.balcanicaucaso.org/eng/Areas/Ingushetia/Ingushetia-fears-outbreaks-of-violence-194009)
 
-- Iliyasov, M. January 10, 2019**. Chechen demographic rise: reasons and concerns** <https://www.balcanicaucaso.org/eng/Areas/Chechnya/Chechen-demographic-rise-reasons-and-concerns-191886>
+- January 10, 2019**. [**Chechen demographic rise: reasons and concerns**](https://www.balcanicaucaso.org/eng/Areas/Chechnya/Chechen-demographic-rise-reasons-and-concerns-191886)**
 
-- Iliyasov, M. October 31, 2018. **Chechnya-Ingushetia: a border change fuels new tensions** <https://www.balcanicaucaso.org/eng/Areas/Chechnya/Chechnya-Ingushetia-a-border-change-fuels-new-tensions-190905>
+- October 31, 2018. **[Chechnya-Ingushetia: a border change fuels new tensions](https://www.balcanicaucaso.org/eng/Areas/Chechnya/Chechnya-Ingushetia-a-border-change-fuels-new-tensions-190905)** 
