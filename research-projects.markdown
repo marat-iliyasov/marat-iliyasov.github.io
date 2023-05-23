@@ -6,7 +6,7 @@ permalink: /research-projects/
 # Research Projects
 
 
-**Radicalisation, Secularism and the Governance of Religion: Bringing Together Diverse Perspectives (GREASE)**
+**[Radicalisation, Secularism and the Governance of Religion: Bringing Together Diverse Perspectives](http://grease.eui.eu/) (GREASE)**
 
 EU-funded Global Research
 
@@ -14,17 +14,20 @@ EU-funded Global Research
 
 What can Europe learn from other parts of the world about governing religious diversity? The GREASE project has been finding out. Our consortium brought together researchers and eminent scholars from Europe, South & Southeast Asia, Asia Pacific and the MENA region. Together we spent four years investigating how religious diversity is governed in over two dozen countries. Comparing norms, laws and practices, we tried to ascertain what is useful (or not useful) in preventing religious radicalization. Our research also shed light on different societal approaches to accommodating religious minorities and migrants.
 
-**RESULTS**
+**RESULTS:**
 
-***Religious radicalization in Russia: the drivers and the state's response***
+***Chapter in an edited volume: 
+Religious radicalization in Russia: the drivers and the state's response***
 
 The analysis of religious radicalization in Russia by default refers to Islamist radicalization. Even though there are other political and religious groups that can be identified as radicalized, the focus of the public, politicians, and researchers stays predominantly with Islam and the North Caucasus. There are three reasons for this. First, the focus on Islamist radicalization falls within the global trend, which associates the current wave of terrorism (also called "new", "fourth", or "religious") with Islam and the global war against it. Second, Islamization and further radicalization of the Muslims in Russia gained its "fame" due to the Russo-Chechen wars of 1994-1996 and 1999-2009. Third, is the rise of Islamic State in Syria and Iraq.
 
-***Governing Religion in Russia and Bulgaria: Between Religious Diversity and Religious Nationalism***
+***Research Article
+Governing Religion in Russia and Bulgaria: Between Religious Diversity and Religious Nationalism***
 
 After the collapse of Communism, a major overhaul of the systems of religious governance took place in Bulgaria and Russia. Policies of liberalization were pursued in both states which created conditions for the revival of religion and growth of religious diversity. This research article analyses the state approaches and policy orientations characterizing the governance of religious diversity in Russia and Bulgaria in the post-Communist years as well as challenges to the fulfilment of religious freedom and religious equality.
 
-***Country Report (Russia)***
+***Country Report 
+Russia***
 
 Religion can play very diverse roles in the political and mundane life of states and people. It can be a source of collective identity, it can contribute to domestic stability, and it also can strengthen the state's stance on the international arena. However, religion can be a destabilizing factor too. It can be and often is used to provoke and fuel international conflict and domestic unrest. The negative role of religion is the focus of this report, which analyses the religious radicalization in the Russian Federation.
 
@@ -32,9 +35,9 @@ Religion can play very diverse roles in the political and mundane life of states
 
 
 
-**WORK IN PROGRESS**
+**WORK IN PROGRESS:**
 
-***Procreation for the sake of the nation ***(under supervision of Professor Rick Fawn and Dr. Jeffrey Murer, University of St Andrews)
+**Book: Procreation for the sake of the nation** (under supervision of Professor Rick Fawn and Dr. Jeffrey Murer, University of St Andrews)
 
 <img height="250px" src="https://marat-iliyasov.github.io/assets/img/wedding.jpg" alt="Photo of the secret wedding during war in Chechnya">
 
@@ -46,7 +49,7 @@ Your country is at war, your fiancé is hunted by enemy forces, public services 
 
 
 
-**Chechnya: the battle over the past for the sake of future** (under supervision of Professor Yoshiko Herrera, Wisconsin Russia Project)
+**Book: Chechnya: the battle over the past for the sake of future** (under supervision of Professor Yoshiko Herrera, Wisconsin Russia Project)
 
 <img height="250px" src="https://marat-iliyasov.github.io/assets/img/chechnya.jpg" alt="Photo of a woman mourning the victims of the Deportation during the war in Chechnya">
 
