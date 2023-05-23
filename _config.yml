@@ -13,7 +13,7 @@ remote_theme: "jeffreytse/jekyll-theme-yat" # DO NOT EDIT
 # Build settings
 defaults: # DO NOT EDIT
    home: # DO NOT EDIT
-     heading: "Chechnya, Eastern Europe, Post-Communist Eurasia" # Edit this for the big text on the home page
+     heading: "Chechnya, Eastern Europe, and Post-Communist Eurasia" # Edit this for the big text on the home page
      subheading: "Researcher, Analyst, Consultant, Educator" # Edit this for the small text on the homepage
      banner: "assets/img/SU.jpg" # Edit this to change the image on the homepage
 
