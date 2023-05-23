@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Research Projects
@@ -8,7 +9,7 @@ permalink: /research-projects/
 
 **Radicalisation, Secularism and the Governance of Religion: Bringing Together Diverse Perspectives (GREASE)**
 
-*****EU-funded Global Research
+EU-funded Global Research
 
 <img height="250px" src="https://marat-iliyasov.github.io/assets/img/temple.jpeg" alt="Photo of The Temple of all religions">
 
@@ -16,15 +17,15 @@ What can Europe learn from other parts of the world about governing religious di
 
 **RESULTS**
 
-*****Religious radicalization in Russia: the drivers and the state's response***
+***Religious radicalization in Russia: the drivers and the state's response***
 
 The analysis of religious radicalization in Russia by default refers to Islamist radicalization. Even though there are other political and religious groups that can be identified as radicalized, the focus of the public, politicians, and researchers stays predominantly with Islam and the North Caucasus. There are three reasons for this. First, the focus on Islamist radicalization falls within the global trend, which associates the current wave of terrorism (also called "new", "fourth", or "religious") with Islam and the global war against it. Second, Islamization and further radicalization of the Muslims in Russia gained its "fame" due to the Russo-Chechen wars of 1994-1996 and 1999-2009. Third, is the rise of Islamic State in Syria and Iraq.
 
-*****Governing Religion in Russia and Bulgaria: Between Religious Diversity and Religious Nationalism***
+***Governing Religion in Russia and Bulgaria: Between Religious Diversity and Religious Nationalism***
 
 After the collapse of Communism, a major overhaul of the systems of religious governance took place in Bulgaria and Russia. Policies of liberalization were pursued in both states which created conditions for the revival of religion and growth of religious diversity. This research article analyses the state approaches and policy orientations characterizing the governance of religious diversity in Russia and Bulgaria in the post-Communist years as well as challenges to the fulfilment of religious freedom and religious equality.
 
-*****Country Report (Russia)***
+***Country Report (Russia)***
 
 Religion can play very diverse roles in the political and mundane life of states and people. It can be a source of collective identity, it can contribute to domestic stability, and it also can strengthen the state's stance on the international arena. However, religion can be a destabilizing factor too. It can be and often is used to provoke and fuel international conflict and domestic unrest. The negative role of religion is the focus of this report, which analyses the religious radicalization in the Russian Federation.
 
@@ -34,21 +35,21 @@ Religion can play very diverse roles in the political and mundane life of states
 
 **WORK IN PROGRESS**
 
-*****Procreation for the sake of the nation ********(under supervision of Professor Rick Fawn and Dr. Jeffrey Murer, University of St Andrews)***
+***Procreation for the sake of the nation ***(under supervision of Professor Rick Fawn and Dr. Jeffrey Murer, University of St Andrews)
 
-<img height="250px" src="https://marat-iliyasov.github.io/assets/img/wedding.jpeg" alt="Photo of the secret wedding during war in Chechnya">
+<img height="250px" src="https://marat-iliyasov.github.io/assets/img/wedding.jpg" alt="Photo of the secret wedding during war in Chechnya">
 
 *This book is a book project based on my Ph.D. dissertation. It is about Chechen determination to survive as a nation by growing numerically despite the war and despair.*
 
 **Abstract**
 
-Your country is at war, your fiancé is hunted by enemy forces, public services are shuttered, and you have little to no possibility to earn a living... Would you plan to get married and have a child in such a situation? If you were a Chechen, you would. As I observed personally, many Chechens were opting to have a family during the 1994-1996 war with Russia that was destroying this small region in the North Caucasus. The pattern repeated during the second, even more brutal Russo-Chechen war in 1999-2009. This predisposition to have family and children that I noticed in war-torn Chechnya is confirmed by the available scholarly estimates of birth rates in Chechnya during the war and post-war demographic statistics. Statistical analysis confirms the tendency of Chechen demographic growth, which is striking and anomalous in the context of the general population decline in the Russian Federation. According to censuses and estimates, the Chechen nation grows 5-10% faster than even the neighboring North Caucasian ethnic groups, that live in similarly urbanized and almost the same economic, religious, and sociocultural environments. I attribute this phenomenon to the war-related loss, which constituted up to 20% of the Chechen population. 
+Your country is at war, your fiancé is hunted by enemy forces, public services are shuttered, and you have little to no possibility to earn a living... Would you plan to get married and have a child in such a situation? If you were a Chechen, you would. As I observed personally, many Chechens were opting to have a family during the 1994-1996 war with Russia that was destroying this small region in the North Caucasus. The pattern repeated during the second, even more brutal Russo-Chechen war in 1999-2009. This predisposition to have family and children that I noticed in war-torn Chechnya is confirmed by the available scholarly estimates of birth rates in Chechnya during the war and post-war demographic statistics. Statistical analysis confirms the tendency of Chechen demographic growth, which is striking and anomalous in the context of the general population decline in the Russian Federation. According to censuses and estimates, the Chechen nation grows 5-10% faster than even the neighboring North Caucasian ethnic groups, that live in similarly urbanized and almost the same economic, religious, and sociocultural environments. I attribute this phenomenon to the war-related loss, which constituted up to 20% of the Chechen population. 
 
 
 
 **Chechnya: the battle over the past for the sake of future** (under supervision of Professor Yoshiko Herrera, Wisconsin Russia Project)
 
-<img height="250px" src="https://marat-iliyasov.github.io/assets/img/chechnya.jpeg" alt="Photo of a woman mourning the victims of the Deportation during the war in Chechnya">
+<img height="250px" src="https://marat-iliyasov.github.io/assets/img/chechnya.jpg" alt="Photo of a woman mourning the victims of the Deportation during the war in Chechnya">
 
 *This book is about Chechen collective memories and their political importance for the future of Chechnya and the world.*
 
