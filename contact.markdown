@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 # email: marat.ilyasov@gmail.com 
