@@ -25,6 +25,9 @@ header_pages: # Add items to the list below to add them to the header
    - publications.markdown
    - research-projects.markdown
    - portfolio.markdown
+   - media.markdown
+   - invited-talks.markdown
+   - teaching.markdown
    - contact.markdown
 
 
