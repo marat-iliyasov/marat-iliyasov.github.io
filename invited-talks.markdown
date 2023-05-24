@@ -5,6 +5,7 @@ permalink: /invited-talks/
 ---
 # Invited talks and presentations 
 
+
 - 2023 - Russia's War Strategy: What Chechnya Suggests for Ukraine (MPSA, Chicago).
 - 2022 - War in Ukraine and Russian memory politics (Miami University, Oxford, Ohio).
 - 2022 - Russo-Chechen conflict in a nutshell (Colgate University, NY). 
