@@ -3,26 +3,5 @@ layout: post
 title:  "Welcome!"
 date:   2023-05-14 11:59:44 -0400
 ---
-- I am a Visiting Assistant Professor at Miami University of Ohio.
-
-
-- My research interests include geographic areas of the post-Soviet space. I analyze questions related to conflict and post-conflict development, political demography, autocratic legitimation, religious governance and radicalization, migrants' identity, and memory politics.
-
-
-- Currently, I am working on my first book, which is based on my Ph.D. dissertation and inspired by my firsthand experience of the first Russo-Chechen war. In this book I analyze procreative motivation of Chechens during the times of war. 
-
-
-- At Miami University, I teach Russian domestic and foreign politics. I base my teaching on the most recent political, economic, and social analysis.
-
-
-- Before joining Miami University, I was a post-doc at Wisconsin-Madison University, where I worked with Professor Yoshiko Herrera on the questions of memory politics in Chechnya and war strategies of post-Soviet Russia. 
-
-
-- My Ph.D. comes from the School of International Relations of the University of St Andrews, where I worked with Professor Rick Fawn and Dr. Jeffrey Murer.
-
-
-- I completed my MA in Caucasus Studies at Ilia State University (Georgia) and MA in Diplomacy and International Relations at Vilnius University (Lithuania).
-
-
-contact: marat.ilyasov@gmail.com
+- Welcome to my website. It introduces my work as political scientist, researcher, analyst, and educator.  
 
