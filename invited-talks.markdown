@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Invited-talks
+title: Invited Talks
 permalink: /invited-talks/
 ---
 # Invited talks and presentations 
