@@ -25,6 +25,7 @@ header_pages: # Add items to the list below to add them to the header
    - publications.markdown
    - research-projects.markdown
    - portfolio.markdown
+   - contact.markdown
 
 
 plugins: # DO NOT EDIT
