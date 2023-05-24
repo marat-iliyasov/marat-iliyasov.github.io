@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "WHO AM I"
+title:  "WHO AM I?"
 date:   2023-05-24 11:59:44 -0400
 ---
-- WHO AM I
- 
-I am a Visiting Assistant Professor at Miami University of Ohio.
+- I am a Visiting Assistant Professor at Miami University of Ohio.
 
 
 - My research interests include geographic areas of the post-Soviet space. I analyze questions related to conflict and post-conflict development, political demography, autocratic legitimation, religious governance and radicalization, migrants' identity, and memory politics.
