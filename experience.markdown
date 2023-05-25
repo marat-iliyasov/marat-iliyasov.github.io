@@ -7,7 +7,7 @@ permalink: /experience/
 
  - 10 years of field research in Post-Communist Eurasia
 			
-			 Chechnya: war and post-war politics and society
+			 Chechnya: war and post-war politics and society, memory politics, discoursive legitimation of authorities
 			 Russia: politics and society, religious radicalization, religious governance
 			 Lithuania and Baltic States: politics and society
 			 Georgia and South Caucasus: politics and society
@@ -15,7 +15,7 @@ permalink: /experience/
 
  - 7 years of professional international journalism (Lithuania)
 			
-			 Resurgence (newspaper, columnist)
+			 Reawakening (newspaper, columnist)
 			 Lithuanian News (newspaper, reporter)
 			 Vilnius' Day (newspaper, reporter, head of department)
 			 Delfi (online media, columnist)
