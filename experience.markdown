@@ -11,10 +11,11 @@ permalink: /experience/
 			 Russia: politics and society, religious radicalization, religious governance
 			 Lithuania and Baltic States: politics and society
 			 Georgia and South Caucasus: politics and society
+			 Kyrgyzstan and Central Asia: politics and society
 
  - 7 years of professional international journalism (Lithuania)
 			
-			Reawakening (newspaper, columnist)
+			 Resurgence (newspaper, columnist)
 			 Lithuanian News (newspaper, reporter)
 			 Vilnius' Day (newspaper, reporter, head of department)
 			 Delfi (online media, columnist)
