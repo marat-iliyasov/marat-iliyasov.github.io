@@ -12,6 +12,10 @@ permalink: /portfolio/
 
 - Presenting findings to the professional and non-professional audiences 
 
+- Consulting governmental institutions on questions related to Chechnya and Russo-Chechen relations
+
+- Consulting courts on the Chechen-related immigration issues
+
 **Methods**
 
 - Semi-structured and in-depth interviews with people at risk on sensitive topics 
@@ -19,3 +23,5 @@ permalink: /portfolio/
 - Design of surveys and focus-groups
 
 - Critical Discourse Analysis of media and political speeches
+
+- Media analysis in Russian, Chechen, Lithuanian, and English 
