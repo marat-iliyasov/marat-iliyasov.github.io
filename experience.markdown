@@ -10,7 +10,7 @@ permalink: /experience/
 	- Russia: Thorough analysis of politics and society, religious radicalization, and religious governance
 	- Lithuania and Baltic States: Examination of politics and society within the Baltic region
 	- Georgia and South Caucasus: Comprehensive understanding of politics and society in Georgia and the broader South Caucasus context
-   	- Kyrgyzstan and Central Asia: In-depth exploration of politics and society in Kyrgyzstan and the wider Central Asian region
+	- Kyrgyzstan and Central Asia: In-depth exploration of politics and society in Kyrgyzstan and the wider Central Asian region
 
  - 7 years of professional experience in international journalism based in Lithuania:
   	- Reawakening (newspaper) - Served as a columnist
