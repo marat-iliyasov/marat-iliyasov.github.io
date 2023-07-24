@@ -7,6 +7,8 @@ permalink: /publications/
 # Publications
 ## Peer-reviewed articles
 
+** https://scholar.google.com/citations?hl=en&user=Qkj6TgoAAAAJ
+
 2022  **[Dynamics in state-religion relations in post-communist Central Eastern Europe and Russia](https://doi.org/10.1080/09637494.2022.2127591)** *Religion, State and Society* 4, 415-435 with D. Vekony & E. Račius (2022 impact factor 1.45)
 
 2021  **[Security and religion -- the discursive legitimation of the Chechen authorities](https://brill.com/view/journals/jome/10/3/article-p247_2.xml)** *Journal of Muslims in Europe 10, 1-29* (2022 impact factor 0.52)
