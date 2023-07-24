@@ -7,6 +7,8 @@ permalink: /about/
 
 <img height="250px" src="https://marat-iliyasov.github.io/assets/img/Marat.JPG" alt="Profile foto of Dr. Marat Iliyasov">
 
+- A Chechen Scholar of International Relations and Comparative Politics. I focus on Russo-Chechen war and post-war relations; post-Soviet conflicts in wider Eurasia; religious radicalization and governance of religions, authoritarianism and memory politics in Russia and Chechnya.  
+
 - My journey in the realm of academia commenced in 2013 with the initiation of my Ph.D. program at the University of St Andrews. The profound impact of my previous pursuits, namely my MAs in Caucasus Studies and International Relations, played a pivotal role in shaping my decision to pursue a Ph.D.
 
 - Under the expert guidance of Professor Rick Fawn and Dr. Jeffrey Murer, my supervisors, my inherent curiosity was nurtured, transforming me into a passionate and meticulous researcher and educator. My areas of focus encompass political, economic, and social issues within the broader Eurasian context.
