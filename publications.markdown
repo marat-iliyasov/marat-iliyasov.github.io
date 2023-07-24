@@ -7,7 +7,7 @@ permalink: /publications/
 # Publications
 ## Peer-reviewed articles
 
-** https://scholar.google.com/citations?hl=en&user=Qkj6TgoAAAAJ
+**(https://scholar.google.com/citations?hl=en&user=Qkj6TgoAAAAJ)**
 
 2022  **[Dynamics in state-religion relations in post-communist Central Eastern Europe and Russia](https://doi.org/10.1080/09637494.2022.2127591)** *Religion, State and Society* 4, 415-435 with D. Vekony & E. Račius (2022 impact factor 1.45)
 
