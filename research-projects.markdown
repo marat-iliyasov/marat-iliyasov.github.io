@@ -28,7 +28,9 @@ In conclusion, I argue that it is essential to recognize that religious radicali
 
 ***Governing Religion in Russia and Bulgaria: Between Religious Diversity and Religious Nationalism (Research Article)***
 
-After the collapse of Communism, a major overhaul of the systems of religious governance took place in Bulgaria and Russia. Policies of liberalization were pursued in both states which created conditions for the revival of religion and growth of religious diversity. This research article analyses the state approaches and policy orientations characterizing the governance of religious diversity in Russia and Bulgaria in the post-Communist years as well as challenges to the fulfilment of religious freedom and religious equality.
+Following the collapse of Communism, Bulgaria and Russia underwent significant transformations in their systems of religious governance. Adopting policies of liberalization, both states created conducive conditions for the revival of religion and the growth of religious diversity. This research article examines the state approaches and policy orientations that have shaped the governance of religious diversity in Russia and Bulgaria during the post-Communist era. Additionally, it explores the challenges faced in realizing religious freedom and religious equality within these contexts.
+The collapse of Communist regimes in Bulgaria and Russia marked a turning point in the governance of religious affairs. Post-Communist policies embraced liberalization, leading to the renaissance of religious practices and the proliferation of diverse faiths. However, the shift towards liberalization was not consistent and permanent. Neither it was enabling religious communities to flourish. Both countries faced challenges in upholding religious freedom and ensuring equality among religious communities. Moreover, the policies they adopted in managing religious diversity could be labeled as restrictive, autocratic, and surprisingly similar.
+
 
 ***Russia: Religious Governance and Radicalization (Country Report)***
 
