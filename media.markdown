@@ -5,7 +5,7 @@ permalink: /media/
 ---
 # Media
 
-## Articles and interviews
+## Policy-focused articles and interviews
 
 - April 17, 2023  [**Why it is important to study memory politics?**](https://sites.miamioh.edu/havighurst/2023/04/17/why-it-is-important-to-study-memory-politics/) 
 
