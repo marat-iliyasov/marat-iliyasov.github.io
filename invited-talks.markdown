@@ -6,6 +6,10 @@ permalink: /invited-talks/
 # Invited talks and presentations 
 
 
+- 2023 – Chechen lessons for the World. Keck Center (**Claremont McKenna College**). 
+- 2023 - Foreign Fighters in the Former Soviet Union (**Ottawa, Canada**)
+- 2023 – Workshop for Bolashak Fellows. How to write a book proposal (**GWU**). 
+- 2023 - Decolonization and recolonization of Chechnya. Lessons taught and not learned. (**Crimea Global. Understanding Ukraine through the South. Kyiv.**)
 - 2023 - Russia's War Strategy: What Chechnya Suggests for Ukraine (**MPSA, Chicago**).
 - 2022 - War in Ukraine and Russian memory politics (**Miami University, Oxford, Ohio**).
 - 2022 - Russo-Chechen conflict in a nutshell (**Colgate University, NYC**). 
