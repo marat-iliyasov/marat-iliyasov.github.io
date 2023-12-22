@@ -9,7 +9,7 @@ permalink: /publications/
 
 **[https://scholar.google.com/citations?hl=en&user=Qkj6TgoAAAAJ](https://scholar.google.com/citations?hl=en&user=Qkj6TgoAAAAJ)**
 
-2023  **[Governing religion in Russia and Bulgaria: Between religious diversity and religious nationalism](https://doi.org/10.1177/14687968231209448)
+2023  **[**Governing religion in Russia and Bulgaria: Between religious diversity and religious nationalism**](https://doi.org/10.1177/14687968231209448)
 *Ethnicities*, 1-19 with L. Yakova and V. Bogdanova (Impact factor 1.3).
 
 2022  **[Dynamics in state-religion relations in post-communist Central Eastern Europe and Russia](https://doi.org/10.1080/09637494.2022.2127591)** *Religion, State and Society* 4, 415-435 with D. Vekony & E. Račius (2022 impact factor 1.45)
