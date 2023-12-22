@@ -7,6 +7,19 @@ permalink: /media/
 
 ## Policy-focused articles and interviews
 
+- 2023, December 18. [**Ramzan Kadyrov: Between Putin’s Loyal Praetorian Guard and Devoted Servant of the Chechen People**](https://www.ponarseurasia.org/ramzan-kadyrov-between-putins-loyal-praetorian-guard-and-devoted-servant-of-the-chechen-people/) (with Jean-François Ratelle). 
+
+- 2023, November 16. [**Palaidotos laisvės viltys: Čečėnijoje sukilimo nuotaikų nematyti**](https://iq.lt/iq-tema/palaidotos-laisves-viltys-nepaisant-su-rusijos-pralaimejimu-ukrainoje-siejamu-vilciu-sukilimo-nuotaiku-regione-nematyti/308988?fbclid=IwAR05yMoZEZ6gWVHp_tZtzSzYOp5KVylOAcn57-ZmyY6Jrl7soZ84USPCMC4) IQ. By Evaldas Labanauskas. 
+
+- 2023, November 9. [**Chechnya's boss and Putin’s foot soldier: How Ramzan Kadyrov became such a feared figure in Russia**](https://theconversation.com/chechnyas-boss-and-putins-foot-soldier-how-ramzan-kadyrov-became-such-a-feared-figure-in-russia-216418)**(with Anya Free).
+
+- 2023, November 3. [**Травма войны, оторванность от диаспоры: почему молодежь Кавказа в криминальных сводках Франции**](https://www.kavkazr.com/a/travma-voyny-otorvannostj-ot-diaspory-pochemu-molodezhj-kavkaza-v-kriminaljnyh-svodkah-frantsii/32668823.html?fbclid=IwAR1BSjKJ0UpjZF4Ypat8fVGNvNIE4LrqHRMY-P1DFtEPNnfyaxan8rNsabw) Kavkaz Realii. By Andrey Krasno. 
+
+- 2023, October 23. **[**Chechens trying to find their place in Europe**](https://oc-media.org/podcasts/podcast-chechens-trying-to-find-their-place-in-europe/) OC Media** 
+- 2023, October 13. [**Ramzan Kadyrov, Chechen Strategist of Russia’s Middle East Policy**](https://www.wilsoncenter.org/blog-post/ramzan-kadyrov-chechen-strategist-russias-middle-east-policy) (with Anya Free).
+
+- 2023, October 2. [**What Would Change If Kadyrov Dies?**](https://russiapost.info/regions/kadyrov) 
+
 - April 17, 2023  [**Why it is important to study memory politics?**](https://sites.miamioh.edu/havighurst/2023/04/17/why-it-is-important-to-study-memory-politics/) 
 
 - December 16, 2022  [**The Chechen Footprint During Russian Wartime  -- PONARS Eurasia**](https://www.ponarseurasia.org/the-chechen-footprint-during-russian-wartime/)
