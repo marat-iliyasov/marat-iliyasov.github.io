@@ -16,6 +16,7 @@ permalink: /media/
 - 2023, November 3. [**Травма войны, оторванность от диаспоры: почему молодежь Кавказа в криминальных сводках Франции**](https://www.kavkazr.com/a/travma-voyny-otorvannostj-ot-diaspory-pochemu-molodezhj-kavkaza-v-kriminaljnyh-svodkah-frantsii/32668823.html?fbclid=IwAR1BSjKJ0UpjZF4Ypat8fVGNvNIE4LrqHRMY-P1DFtEPNnfyaxan8rNsabw) Kavkaz Realii. By Andrey Krasno. 
 
 - 2023, October 23. **[**Chechens trying to find their place in Europe**](https://oc-media.org/podcasts/podcast-chechens-trying-to-find-their-place-in-europe/) OC Media** 
+
 - 2023, October 13. [**Ramzan Kadyrov, Chechen Strategist of Russia’s Middle East Policy**](https://www.wilsoncenter.org/blog-post/ramzan-kadyrov-chechen-strategist-russias-middle-east-policy) (with Anya Free).
 
 - 2023, October 2. [**What Would Change If Kadyrov Dies?**](https://russiapost.info/regions/kadyrov) 
