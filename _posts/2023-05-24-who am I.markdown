@@ -3,7 +3,9 @@ layout: post
 title:  "WHO AM I?"
 date:   2023-05-24 11:59:44 -0400
 ---
-- Since July 2023, I start serving as a Fellow at the Global Academy at George Washington University, following my previous position as a Visiting Assistant Professor at Miami University of Ohio. At Miami University, my primary focus lied in teaching Russian domestic and foreign politics, where I leverage the latest political, economic, and social analyses to provide students with up-to-date knowledge and valuable insights.
+- Since July 2023, I start serving as a Fellow at the Global Academy at George Washington University, following my previous positions as a Visiting Assistant Professor at Miami University of Ohio and Post-doctoral fellow at Vilnius University. At Miami University, my primary focus lied in teaching Russian domestic and foreign politics, where I leverage the latest political, economic, and social analyses to provide students with up-to-date knowledge and valuable insights. 
+
+- As a Post-doctoral fellow at Vilnius University, together with Professor Violeta Davoliute, I explored memories of the Chechens in Europe and the US about the wars in Chechnya. I was interested in the mechanisms that allow transmitting the memories to the next generations and the outcome of this transmission. Chechen volunteers fighting today for Ukraine's freedom can be considered as such. 
 
 - Prior to my tenure at Miami University, I held a post-doctoral position at the University of Wisconsin-Madison, where I collaborated closely with Professor Yoshiko Herrera. Together, we delved into the intricacies of memory politics in Chechnya and conducted analyses on post-Soviet Russia's strategies of warfare.
 
