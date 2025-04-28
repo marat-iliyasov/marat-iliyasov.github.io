@@ -16,7 +16,7 @@ permalink: /publications/
 
 2024. “**Russia's war strategies: what Chechnya suggests for Ukraine**.” _Post-Soviet Affairs_. (with Y. Herrera). [http://dx.doi.org/10.1080/1060586X.2024.2330882](http://dx.doi.org/10.1080/1060586X.2024.2330882).
 
-2023. “**Governing religion in Russia and Bulgaria: Between religious diversity and religious nationalism.**” _Ethnicities_ Special Issue_. (with L. Yakova and V. Bogdanova). [https://doi.org/10.1177/146879682312094](https://doi.org/10.1177/146879682312094)
+2023. “**Governing religion in Russia and Bulgaria: Between religious diversity and religious nationalism.**” _Ethnicities_ Special Issue. (with L. Yakova and V. Bogdanova). [https://doi.org/10.1177/146879682312094](https://doi.org/10.1177/146879682312094)
 
 2022. “**Dynamics in state-religion relations in post-communist Central Eastern Europe and Russia.**” _Religion, State and Society_. (with D. Vekony & E. Račius. [https://doi.org/10.1080/09637494.2022.2127591](https://doi.org/10.1080/09637494.2022.2127591)
 
