@@ -5,26 +5,34 @@ permalink: /publications/
 ---
 
 # Publications
+## Books
+ **_Reproducing Resistance: Chechen Demography in Times of War_** (forthcoming, 2025 Bloomsbury)**.**
 ## Peer-reviewed articles
 
 **[https://scholar.google.com/citations?hl=en&user=Qkj6TgoAAAAJ](https://scholar.google.com/citations?hl=en&user=Qkj6TgoAAAAJ)**
 
-2023  **[Governing religion in Russia and Bulgaria: Between religious diversity and religious nationalism](https://doi.org/10.1177/14687968231209448)**
-*Ethnicities*, 1-19 with L. Yakova and V. Bogdanova (Impact factor 1.3).
 
-2022  **[Dynamics in state-religion relations in post-communist Central Eastern Europe and Russia](https://doi.org/10.1080/09637494.2022.2127591)** *Religion, State and Society* 4, 415-435 with D. Vekony & E. Račius (2022 impact factor 1.45)
+2024. “**The Clash of Collective Memories in Postwar Chechnya**.” _Problems of Post-Communism_. [https://doi.org/10.1080/10758216.2024.2340565](https://doi.org/10.1080/10758216.2024.2340565).
 
-2021  **[Security and religion -- the discursive legitimation of the Chechen authorities](https://brill.com/view/journals/jome/10/3/article-p247_2.xml)** *Journal of Muslims in Europe 10, 1-29* (2022 impact factor 0.52)
+2024. “**Russia's war strategies: what Chechnya suggests for Ukraine**.” _Post-Soviet Affairs_ (with Y. Herrera). [http://dx.doi.org/10.1080/1060586X.2024.2330882](http://dx.doi.org/10.1080/1060586X.2024.2330882).
 
-2021  **[To be or not to be a Chechen? The second generation of Chechens in Europe and their choices of identity](https://doi.org/10.3389/fsoc.2021.631961)** *The Frontiers of Sociology* (**2022 impact factor 2.28. Article's impact; 10447 views; view rank more than 99% in 2023**)
+2023. “**Governing religion in Russia and Bulgaria: Between religious diversity and religious nationalism.**” _Ethnicities_ Special Issue_,_ (with L. Yakova and V. Bogdanova). [https://doi.org/10.1177/146879682312094](https://doi.org/10.1177/146879682312094)
 
-2019  **[Chechen Demographic Growth as a Reaction to Conflict: The Views of Chechens](https://doi.org/10.1080/09668136.2019.1602593).** *Europe-Asia Studies*, *71*(10), 1705-1733. (2020 impact factor 2.108)
+2022. “**Dynamics in state-religion relations in post-communist Central Eastern Europe and Russia.**” _Religion, State and Society_ (with D. Vekony & E. Račius. [https://doi.org/10.1080/09637494.2022.2127591](https://doi.org/10.1080/09637494.2022.2127591)
 
-2018  **[Chechen Ethnic Identity: Assessing the Change from Resistance to Submission](https://doi.org/10.1080/00263206.2018.1423967)** *Middle Eastern Studies 54,* (3), 475-493. (2020 impact factor 0.45)
+2021. “**Security and religion – the discursive legitimation of the Chechen authorities.**“ _Journal of Muslims in Europe_. [https://doi.org/10.1163/22117954-bja10029](https://doi.org/10.1163/22117954-bja10029)
 
-2017  **[Researching Chechen Diaspora in Europe: the Issues Faced](http://siba-ese.unisalento.it/index.php/idps/article/view/17314)** *Inter-Disciplinary Political Science Journal 3,* (1), 201-218.
+2021. “**To be or not to be a Chechen? The second generation of Chechens in Europe and their choices of identity.**” _The Frontiers of Sociology_. Most often viewed article’s- 13064 views). [https://doi.org/10.3389/fsoc.2021.631961](https://doi.org/10.3389/fsoc.2021.631961)
 
-2012  **Instability in the North Caucasus: Reasons, Factors, and Implications** *Caucasus and Globalization* 6, no. 3, 48-58
+2019. “**Chechen Demographic Growth as a Reaction to Conflict: The Views of Chechens.**” _Europe-Asia Studies_. [https://doi.org/10.1080/09668136.2019.1602593](https://doi.org/10.1080/09668136.2019.1602593)
+
+2018. “**Chechen Ethnic Identity: Assessing the Change from Resistance to Submission.**” _Middle Eastern Studies_. [https://doi.org/10.1080/00263206.2018.1423967](https://doi.org/10.1080/00263206.2018.1423967)
+
+2017. “**Researching Chechen Diaspora in Europe: the Issues Faced.**” _Inter-Disciplinary Political Science Journal_. DOI: 10.1285/i20398573v3n1p201
+
+2012. “**Instability in the North Caucasus: Reasons, Factors, and Implications**.” _Caucasus and Globalization.
+
+
 
 ## Chapters in edited volumes
 
