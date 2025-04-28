@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Experience
@@ -12,6 +13,7 @@ permalink: /experience/
 	- Lithuania and Baltic States: politics, economics, society 
 	- Georgia and South Caucasus: conflicts, politics, history, society
 	- Central Asia: conflicts, history, politics, society
+	
 
  - 7 years of professional journalism:
   	
@@ -19,6 +21,7 @@ permalink: /experience/
 	- Lithuanian News (newspaper) - Reporter
 	- Vilnius' Day (newspaper) - Head of department
 	- Delfi (online media) - Columnist
+
 
  - 8 years of research and teaching in HE:
 
@@ -31,6 +34,7 @@ permalink: /experience/
 	- George Washington University (Elliott School of International Affairs, IERES) - Researcher.
 	- College of the Holy Cross (Political Science Department) - Professor 
 			 
+			 
  - 4 years in the non-governmental sector:
 
 	- Center for Strategic Studies (Lithuania) - Analyst 
@@ -39,9 +43,11 @@ permalink: /experience/
 	- Georgian Foundation for Strategic and International Studies (Georgia) - Analyst
 	- NGO "Caucasian House" (Georgia) - Project Manager
 
+
  - 3 years in government consultancy:
 
 	- Lithuanian Ministry of Foreign Affairs
 	- US State Department and other government agencies 
+
 
 - 2 years expert witness for the US courts
