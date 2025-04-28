@@ -14,15 +14,15 @@ permalink: /publications/
 
 2024. “**The Clash of Collective Memories in Postwar Chechnya**.” _Problems of Post-Communism_. [https://doi.org/10.1080/10758216.2024.2340565](https://doi.org/10.1080/10758216.2024.2340565).
 
-2024. “**Russia's war strategies: what Chechnya suggests for Ukraine**.” _Post-Soviet Affairs_ (with Y. Herrera). [http://dx.doi.org/10.1080/1060586X.2024.2330882](http://dx.doi.org/10.1080/1060586X.2024.2330882).
+2024. “**Russia's war strategies: what Chechnya suggests for Ukraine**.” _Post-Soviet Affairs_. (with Y. Herrera). [http://dx.doi.org/10.1080/1060586X.2024.2330882](http://dx.doi.org/10.1080/1060586X.2024.2330882).
 
-2023. “**Governing religion in Russia and Bulgaria: Between religious diversity and religious nationalism.**” _Ethnicities_ Special Issue_,_ (with L. Yakova and V. Bogdanova). [https://doi.org/10.1177/146879682312094](https://doi.org/10.1177/146879682312094)
+2023. “**Governing religion in Russia and Bulgaria: Between religious diversity and religious nationalism.**” _Ethnicities_ Special Issue_. (with L. Yakova and V. Bogdanova). [https://doi.org/10.1177/146879682312094](https://doi.org/10.1177/146879682312094)
 
-2022. “**Dynamics in state-religion relations in post-communist Central Eastern Europe and Russia.**” _Religion, State and Society_ (with D. Vekony & E. Račius. [https://doi.org/10.1080/09637494.2022.2127591](https://doi.org/10.1080/09637494.2022.2127591)
+2022. “**Dynamics in state-religion relations in post-communist Central Eastern Europe and Russia.**” _Religion, State and Society_. (with D. Vekony & E. Račius. [https://doi.org/10.1080/09637494.2022.2127591](https://doi.org/10.1080/09637494.2022.2127591)
 
 2021. “**Security and religion – the discursive legitimation of the Chechen authorities.**“ _Journal of Muslims in Europe_. [https://doi.org/10.1163/22117954-bja10029](https://doi.org/10.1163/22117954-bja10029)
 
-2021. “**To be or not to be a Chechen? The second generation of Chechens in Europe and their choices of identity.**” _The Frontiers of Sociology_. Most often viewed article’s- 13064 views). [https://doi.org/10.3389/fsoc.2021.631961](https://doi.org/10.3389/fsoc.2021.631961)
+2021. “**To be or not to be a Chechen? The second generation of Chechens in Europe and their choices of identity.**” _The Frontiers of Sociology_. Most often viewed article - 13064 views). [https://doi.org/10.3389/fsoc.2021.631961](https://doi.org/10.3389/fsoc.2021.631961)
 
 2019. “**Chechen Demographic Growth as a Reaction to Conflict: The Views of Chechens.**” _Europe-Asia Studies_. [https://doi.org/10.1080/09668136.2019.1602593](https://doi.org/10.1080/09668136.2019.1602593)
 
@@ -30,7 +30,7 @@ permalink: /publications/
 
 2017. “**Researching Chechen Diaspora in Europe: the Issues Faced.**” _Inter-Disciplinary Political Science Journal_. DOI: 10.1285/i20398573v3n1p201
 
-2012. “**Instability in the North Caucasus: Reasons, Factors, and Implications**.” _Caucasus and Globalization.
+2012. “**Instability in the North Caucasus: Reasons, Factors, and Implications**.” Caucasus and Globalization.
 
 
 
