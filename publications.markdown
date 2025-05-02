@@ -57,9 +57,9 @@ permalink: /publications/
 
 2020  Report. 2020.  **[Radicalization and Resilience. Case Study: Russia](http://grease.eui.eu/wp-content/uploads/sites/8/2020/10/WP4-Report_Russia-1.pdf)**. 
 
-2019  Report. 2019.  **[Radicalization in Russia. The roots and causes of Islamist radicalization in Russia: the state's response](http://grease.eui.eu/wp-content/uploads/sites/8/2019/10/Russia-Report.pdf)**
+2019  Report. 2019.  **[Radicalization in Russia. The roots and causes of Islamist radicalization in Russia: the state's response.](http://grease.eui.eu/wp-content/uploads/sites/8/2019/10/Russia-Report.pdf)**
 
-2019  Chapter. 2019. **[Nation and Religion-Reflections on Europe, the MENA Region and South Asia](http://grease.eui.eu/wp-content/uploads/sites/8/2019/05/GREASE-concept-paper_D1.3_Nation-and-Religion_30May2019_FINAL1-2.pdf) (with Triandafyllidou, A., H. Gülalp, G., Mahajan, and E. Racius)**
+2019  Chapter. 2019. **[Nation and Religion-Reflections on Europe, the MENA Region and South Asia](http://grease.eui.eu/wp-content/uploads/sites/8/2019/05/GREASE-concept-paper_D1.3_Nation-and-Religion_30May2019_FINAL1-2.pdf) (with Triandafyllidou, A., H. Gülalp, G., Mahajan, and E. Racius).**
 
 2013  Chapter. 2013. **Odds and Peculiarities of Family Life in the Caucasus** In Sipaviciene, Audra, and Rita Augutiene (eds.). *Handbook for Social Workers*. Vilnius: Baltijos kopija, 99-125.
 
