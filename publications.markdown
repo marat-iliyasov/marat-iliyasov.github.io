@@ -53,17 +53,17 @@ permalink: /publications/
 
 ## Non-referenced Book Chapters and Reports
 
-2020  Report  **[Radicalization and Resilience. Case Study: Russia](http://grease.eui.eu/wp-content/uploads/sites/8/2020/10/WP4-Report_Russia-1.pdf)**. 
+2020  Report.  **[Radicalization and Resilience. Case Study: Russia](http://grease.eui.eu/wp-content/uploads/sites/8/2020/10/WP4-Report_Russia-1.pdf)**. 
 
-2019  Report  **[Radicalization in Russia. The roots and causes of Islamist radicalization in Russia: the state's response](http://grease.eui.eu/wp-content/uploads/sites/8/2019/10/Russia-Report.pdf)**
+2019  Report.  **[Radicalization in Russia. The roots and causes of Islamist radicalization in Russia: the state's response](http://grease.eui.eu/wp-content/uploads/sites/8/2019/10/Russia-Report.pdf)**
 
-2019  **[Nation and Religion-Reflections on Europe, the MENA Region and South Asia](http://grease.eui.eu/wp-content/uploads/sites/8/2019/05/GREASE-concept-paper_D1.3_Nation-and-Religion_30May2019_FINAL1-2.pdf) (with Triandafyllidou, A., H. Gülalp, G., Mahajan, and E. Racius)**
+2019  Chapter. **[Nation and Religion-Reflections on Europe, the MENA Region and South Asia](http://grease.eui.eu/wp-content/uploads/sites/8/2019/05/GREASE-concept-paper_D1.3_Nation-and-Religion_30May2019_FINAL1-2.pdf) (with Triandafyllidou, A., H. Gülalp, G., Mahajan, and E. Racius)**
 
-2013  **Odds and Peculiarities of Family Life in the Caucasus** In Sipaviciene, Audra, and Rita Augutiene (eds.). *Handbook for Social Workers*. Vilnius: Baltijos kopija, 99-125.
+2013  Chapter. **Odds and Peculiarities of Family Life in the Caucasus** In Sipaviciene, Audra, and Rita Augutiene (eds.). *Handbook for Social Workers*. Vilnius: Baltijos kopija, 99-125.
 
-2008  **Models of Behaviour and Islam in Chechen Society** In Sipaviciene, Audra, and Rita Augutiene (eds.). *Handbook for Social Workers*. Vilnius: Baltijos kopija, 35-48.
+2008  Chapter. **Models of Behaviour and Islam in Chechen Society** In Sipaviciene, Audra, and Rita Augutiene (eds.). *Handbook for Social Workers*. Vilnius: Baltijos kopija, 35-48.
 
-2007  **The Impact of the Regional Organisations to the Dis/Integration of the CIS** In Motieka, Egidijus (ed.). *Nepriklausomų valstybių sandraugos raidos tendencijos: integraciją skatinantys ir ribojantys veiksniai* [CIS: Factors Restraining and Stimulating Integration and Development]. Vilnius: University Press, 35-69.
+2007  Chapter. **The Impact of the Regional Organisations to the Dis/Integration of the CIS** In Motieka, Egidijus (ed.). *Nepriklausomų valstybių sandraugos raidos tendencijos: integraciją skatinantys ir ribojantys veiksniai* [CIS: Factors Restraining and Stimulating Integration and Development]. Vilnius: University Press, 35-69.
 
 ## Book reviews
 
