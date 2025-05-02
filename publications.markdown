@@ -46,7 +46,7 @@ permalink: /publications/
 
 2027. **“Russia and the Russian-Chechen Conflict in the Collective Memory of Chechen Migrants in Europe.”** 2024. In C. Druey, M., Shogenov, and V., Tanailova (eds.) _Fighting for Self-Determination, Participation and Stability State-building, Civil Society and the Role of Historical Memories in Chechnya (1986 – 2021)._ Peter Lang Publishers.
 
-2028. “**Chechnya.**” In Hale, H. et al. (eds.) D_evelopments in Russian Politics. Textbook._ Bloomsbury. 2024  **[Religious legitimation: indoctrination, de-legitimation, and pacification efforts in Chechnya](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003090632-6/religious-self-legitimation-indoctrination-pacification-efforts-chechen-government-marat-iliyasov).** In G. Yemelianova and E. Racius (eds.) *Routledge Handbook. Muslims of Post-Communist Eurasia*. Routledge.
+2028. “**Chechnya.**” In Hale, H. et al. (eds.) D_evelopments in Russian Politics. Textbook.  Bloomsbury. 2024  **[Religious legitimation: indoctrination, de-legitimation, and pacification efforts in Chechnya](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003090632-6/religious-self-legitimation-indoctrination-pacification-efforts-chechen-government-marat-iliyasov).** In G. Yemelianova and E. Racius (eds.) *Routledge Handbook. Muslims of Post-Communist Eurasia*. Routledge.
 
 2029. **“Religious legitimation:** **indoctrination, de-legitimation, and pacification efforts in Chechnya.”** 2022. In G. Yemelianova and E. Racius (eds.). _Routledge Handbook. Muslims of Post-Communist Eurasia_. Routledge.
  
@@ -69,9 +69,9 @@ permalink: /publications/
 
 ## Book reviews
 
-2024. 2024 Bonds of Blood? State-Building and Clanship in Chechnya and Ingushetia, by E. Sokirianskaya. _State Crime Journal_, _13_(1), 119-121.
+2024. Bonds of Blood? State-Building and Clanship in Chechnya and Ingushetia, by E. Sokirianskaya. _State Crime Journal_, _13_(1), 119-121. (2024).
 
-2025. 2020. [**From Conquest to Deportation: The North Caucasus under Russian Rule**](https://doi.org/10.1163/22117954-12341414), by Jeronim Perović. *Journal of Muslims in Europe*, *9*(1), 131-134.
+2025. [**From Conquest to Deportation: The North Caucasus under Russian Rule**](https://doi.org/10.1163/22117954-12341414), by Jeronim Perović. *Journal of Muslims in Europe*, *9*(1), 131-134. (2020).
 
 
 
