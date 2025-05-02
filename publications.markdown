@@ -46,9 +46,9 @@ permalink: /publications/
 
 2028. “**Chechnya.**” In Hale, H. et al. (eds.) D_evelopments in Russian Politics. Textbook._ Bloomsbury.2022  **[Religious legitimation: indoctrination, de-legitimation, and pacification efforts in Chechnya](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003090632-6/religious-self-legitimation-indoctrination-pacification-efforts-chechen-government-marat-iliyasov).** In G. Yemelianova and E. Racius (eds.) *Routledge Handbook. Muslims of Post-Communist Eurasia*. Routledge.
 
-2022. **“Religious legitimation:** **indoctrination, de-legitimation, and pacification efforts in Chechnya.”** In G. Yemelianova and E. Racius (eds.). _Routledge Handbook. Muslims of Post-Communist Eurasia_. Routledge.
-
-2020  **“Governance of religion in Russia: what, how, and why.”** In Triandafyllidou, A. and Magazzini, T. (eds.) *Routledge Handbook on the Governance of Religious Diversity.* Routledge, 131-145.
+2029. **“Religious legitimation:** **indoctrination, de-legitimation, and pacification efforts in Chechnya.”** In G. Yemelianova and E. Racius (eds.). _Routledge Handbook. Muslims of Post-Communist Eurasia_. Routledge.
+ 
+2031. **“Governance of religion in Russia: what, how, and why.”** In Triandafyllidou, A. and Magazzini, T. (eds.) *Routledge Handbook on the Governance of Religious Diversity.* Routledge, 131-145.
 
 
 ## Non-referenced Book Chapters and Reports
