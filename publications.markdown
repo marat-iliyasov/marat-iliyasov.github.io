@@ -68,7 +68,10 @@ permalink: /publications/
 
 ## Book reviews
 
-2020  [**From Conquest to Deportation: The North Caucasus under Russian Rule**](https://doi.org/10.1163/22117954-12341414), written by Jeronim Perović. *Journal of Muslims in Europe*, *9*(1), 131-134.
+2024. Bonds of Blood? State-Building and Clanship in Chechnya and Ingushetia, by E. Sokirianskaya. _State Crime Journal_, _13_(1), 119-121.
+
+2020  [**From Conquest to Deportation: The North Caucasus under Russian Rule**](https://doi.org/10.1163/22117954-12341414), by Jeronim Perović. *Journal of Muslims in Europe*, *9*(1), 131-134.
+
 
 
 
