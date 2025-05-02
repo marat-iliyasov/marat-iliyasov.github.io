@@ -36,9 +36,21 @@ permalink: /publications/
 
 ## Chapters in edited volumes
 
-2022  **[Religious legitimation: indoctrination, de-legitimation, and pacification efforts in Chechnya](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003090632-6/religious-self-legitimation-indoctrination-pacification-efforts-chechen-government-marat-iliyasov).** In G. Yemelianova and E. Racius (eds.) *Routledge Handbook. Muslims of Post-Communist Eurasia*. Routledge.
+2024. “**Nokhchi-chuo.**” In Ziauddin Sardar (ed.) _Genocide_. Critical Muslim (52), pp. 118-128.
+
+2025. “**Kadyrov and Chechens in Russia’s War with Ukraine**.” In [_Zooming In: Regional Perspectives on Russia_](https://bunny-wp-pullzone-a7uhvox9dj.b-cdn.net/wp-content/uploads/2024/10/PONARS_ebook_Nov_2024.pdf)_._ PONARS. pp. 31-36.
+
+2026. “**The controversies of memory politics in authoritarian Chechnya.”** In Budryte, D. et al. (eds.) _Handbook on the Memory in Eastern Europe_. Routledge. [https://doi.org/10.4324/9781003342083](https://doi.org/10.4324/9781003342083)
+
+2027. **“Russia and the Russian-Chechen Conflict in the Collective Memory of Chechen Migrants in Europe.”** In C. Druey, M., Shogenov, and V., Tanailova (eds.) _Fighting for Self-Determination, Participation and Stability State-building, Civil Society and the Role of Historical Memories in Chechnya (1986 – 2021)._ Peter Lang Publishers.
+
+2028. “**Chechnya.**” In Hale, H. et al. (eds.) D_evelopments in Russian Politics. Textbook._ Bloomsbury.2022  **[Religious legitimation: indoctrination, de-legitimation, and pacification efforts in Chechnya](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003090632-6/religious-self-legitimation-indoctrination-pacification-efforts-chechen-government-marat-iliyasov).** In G. Yemelianova and E. Racius (eds.) *Routledge Handbook. Muslims of Post-Communist Eurasia*. Routledge.
+
+
+2022. **“Religious legitimation:** **indoctrination, de-legitimation, and pacification efforts in Chechnya.”** In G. Yemelianova and E. Racius (eds.). _Routledge Handbook. Muslims of Post-Communist Eurasia_. Routledge.
 
 2020  **[Governance of religion in Russia: what, how, and why](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003083405-15/russia-marat-iliyasov)** In Triandafyllidou, A. and Magazzini, T. (eds.) *Routledge Handbook on the Governance of Religious Diversity.* Routledge, 131-145.
+
 
 ## Non-referenced Book Chapters and Reports
 
