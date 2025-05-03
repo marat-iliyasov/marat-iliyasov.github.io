@@ -72,3 +72,4 @@ permalink: /media/
 - January 10, 2019  [**Chechen demographic rise: reasons and concerns**](https://www.balcanicaucaso.org/eng/Areas/Chechnya/Chechen-demographic-rise-reasons-and-concerns-191886)
 
 - October 31, 2018  [**Chechnya-Ingushetia: a border change fuels new tensions**](https://www.balcanicaucaso.org/eng/Areas/Chechnya/Chechnya-Ingushetia-a-border-change-fuels-new-tensions-190905) 
+
