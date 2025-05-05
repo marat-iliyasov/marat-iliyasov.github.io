@@ -7,7 +7,7 @@ permalink: /media/
 
 ## Policy-focused articles and interviews
 
-- 2025, April 22. [**Chechen scholar: Russia’s cowardly violence in Ukraine is driven by desperation**]. (https://www.yahoo.com/news/chechen-scholar-both-chechnya-ukraine-192225886.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAEgCDyflXZ6E0r9QRUYOr6W79yGakQGqYf47BvcUOtrTRyW3VXScMgqKVwTX6yXfmeoBurJRhFpsuPUav0hJPRr99hvKTorX5lGFOxrSqyU6P9ILlzpUI3YAN5uQ34fZrNQ3ay2YAicD7Q9u7Q9dR-HGPprskVcnJD_jhyVxZIHh) Kyiv Independent.
+- 2025, April 22. [**Chechen scholar: Russia’s cowardly violence in Ukraine is driven by desperation**](https://www.yahoo.com/news/chechen-scholar-both-chechnya-ukraine-192225886.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAEgCDyflXZ6E0r9QRUYOr6W79yGakQGqYf47BvcUOtrTRyW3VXScMgqKVwTX6yXfmeoBurJRhFpsuPUav0hJPRr99hvKTorX5lGFOxrSqyU6P9ILlzpUI3YAN5uQ34fZrNQ3ay2YAicD7Q9u7Q9dR-HGPprskVcnJD_jhyVxZIHh) Kyiv Independent.
 
 - 2025, April 17. [**Is a Tribunal for Kadyrov More Than Wishful Thinking?**](https://www.cacianalyst.org/publications/analytical-articles/item/13863-is-a-tribunal-for-kadyrov-more-than-wishful-thinking?.html) Central Asia and Caucasus Analyst.
 
@@ -19,7 +19,7 @@ permalink: /media/
 
 - 2025, January 24. [**Новые "главные террористы"? Братство баталхаджинцев из Ингушетии и убийство генерала Кириллова**](https://www.kavkazr.com/a/novye-glavnye-terroristy-bratstvo-batalhadzhintsev-iz-ingushetii-i-ubiystvo-generala-kirillova/33287519.html)
 
-- 2024, October 19. **Podróż bez Paszportu. Podcast. Czeczenia: Naród w cieniu Moskwy \| Kaukaskim Okiem odc. 5** https://www.youtube.com/watch?v=pIFHp49u3Ec 
+- 2024, October 19. [**Podróż bez Paszportu. Podcast. Czeczenia: Naród w cieniu Moskwy \| Kaukaskim Okiem odc. 5**](https://www.youtube.com/watch?v=pIFHp49u3Ec) 
 
 - 2024, May 23. [**Centering the North Caucasus in Russian Affairs \| Wilson Center**](https://www.wilsoncenter.org/event/centering-north-caucasus-russian-affairs) 
 
