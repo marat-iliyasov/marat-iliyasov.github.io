@@ -13,31 +13,31 @@ permalink: /media/
 
 - 2025, March 10. [**Military Mobilization in Russia’s Regions: From Protests to Submission - PONARS Eurasia**](https://www.ponarseurasia.org/military-mobilization-in-russias-regions-from-protests-to-submission/)  (with J-F. Ratelle).
 
-- 2025, February 23.  [**The wounds of the 1944 deportation still fester in Chechnya and beyond | Opinions | Al Jazeera**](https://www.aljazeera.com/opinions/2025/2/23/the-wounds-of-the-1944-deportation-still-fester-in-chechnya-and-beyond)
+- 2025, February 23.  [**The wounds of the 1944 deportation still fester in Chechnya and beyond \| Opinions \| Al Jazeera**](https://www.aljazeera.com/opinions/2025/2/23/the-wounds-of-the-1944-deportation-still-fester-in-chechnya-and-beyond)
 
-- 2025, January 28. [**The North Caucasus and Russia's Invasion of Ukraine | Wilson Center**](https://www.wilsoncenter.org/event/north-caucasus-and-russias-invasion-ukraine)
+- 2025, January 28. [**The North Caucasus and Russia's Invasion of Ukraine \| Wilson Center**](https://www.wilsoncenter.org/event/north-caucasus-and-russias-invasion-ukraine)
 
 - 2025, January 24. [**Новые "главные террористы"? Братство баталхаджинцев из Ингушетии и убийство генерала Кириллова**](https://www.kavkazr.com/a/novye-glavnye-terroristy-bratstvo-batalhadzhintsev-iz-ingushetii-i-ubiystvo-generala-kirillova/33287519.html)
 
-- 2024, October 19. **Podróż bez Paszportu. Podcast. Czeczenia: Naród w cieniu Moskwy | Kaukaskim Okiem odc. 5** https://www.youtube.com/watch?v=pIFHp49u3Ec 
+- 2024, October 19. **Podróż bez Paszportu. Podcast. Czeczenia: Naród w cieniu Moskwy \| Kaukaskim Okiem odc. 5** https://www.youtube.com/watch?v=pIFHp49u3Ec 
 
-- 2024, May 23. [**Centering the North Caucasus in Russian Affairs | Wilson Center**](https://www.wilsoncenter.org/event/centering-north-caucasus-russian-affairs) 
+- 2024, May 23. [**Centering the North Caucasus in Russian Affairs \| Wilson Center**](https://www.wilsoncenter.org/event/centering-north-caucasus-russian-affairs) 
 
 - 2024, May 17. [**Talk Eastern Europe - Episode 179: Chechnya today and Ramzan Kadyrov’s potential successors**](https://talkeasterneurope.eu/episodes/episode-179-chechnya-today-and-ramzan-kadyrovs-potential-successors)
 
 - 2024, June 10. [**#BruteCast S07 E22 Chechnya's Troubles with Putin's Russia w/ Dr. Marat Iliyasov**](https://www.youtube.com/watch?v=TG74llisxqE) 
 
-- 2024, May 5. [**What’s the truth about Ramzan Kadyrov's ‘terminal illness’? | The Spectator**](https://www.spectator.co.uk/article/ramzan-kadyrovs-death-will-change-little-in-chechnya/) 
+- 2024, May 5. [**What’s the truth about Ramzan Kadyrov's ‘terminal illness’? \| The Spectator**](https://www.spectator.co.uk/article/ramzan-kadyrovs-death-will-change-little-in-chechnya/) 
 
 - 2024, May 1. [**Назад в 1990-е? Очередное вооруженное нападение на полицейских на Северном Кавказе**](https://www.kavkazr.com/a/nazad-v-1990-e-ocherednoe-vooruzhennoe-napadenie-na-politseyskih-na-severnom-kavkaze-/32929271.html)
 
-- 2024, March 10. [**Čečeni i Inguši pamte: Osam decenija od genocidne deportacije | Čečenija | Al Jazeera**](https://balkans.aljazeera.net/teme/2024/3/10/ceceni-i-ingusi-pamte-osam-decenija-od-genocidne-deportacije)
+- 2024, March 10. [**Čečeni i Inguši pamte: Osam decenija od genocidne deportacije \| Čečenija \| Al Jazeera**](https://balkans.aljazeera.net/teme/2024/3/10/ceceni-i-ingusi-pamte-osam-decenija-od-genocidne-deportacije)
 
 - 2024, March 5.[**Гнев и разочарование. Почему чеченцев возмутила возможность обмена Навального на Красикова**](https://www.kavkazr.com/a/gnev-i-razocharovanie-pochemu-chechentsev-vozmutila-vozmozhnostj-obmena-navaljnogo-na-krasikova-/32848801.html)
 
 - 2024, February 29. [**The 80th Anniversary of the Chechen and Ingush Deportation: What is its legacy today? - GW Calendar**](https://calendar.gwu.edu/event/the_80th_anniversary_of_the_chechen_and_ingush_deportation_what_is_its_legacy_today)
 
-- 2024, February 23. [**Perspectives: Pain inflicted by Stalin’s forced deportations during World War II has not healed | Eurasianet**](https://eurasianet.org/perspectives-pain-inflicted-by-stalins-forced-deportations-during-world-war-ii-has-not-healed) (with B. Kassymbekova).
+- 2024, February 23. [**Perspectives: Pain inflicted by Stalin’s forced deportations during World War II has not healed \| Eurasianet**](https://eurasianet.org/perspectives-pain-inflicted-by-stalins-forced-deportations-during-world-war-ii-has-not-healed) (with B. Kassymbekova).
 
 - 2024, February 20. [**Repurposing Tradition to Justify the War in Ukraine - PONARS Eurasia**](https://www.ponarseurasia.org/repurposing-tradition-to-justify-the-war-in-ukraine/) (with V. Umanets, A. Garmazhapova, and Yasin Hakim).
 
