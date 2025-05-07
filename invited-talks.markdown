@@ -6,6 +6,9 @@ permalink: /invited-talks/
 # Invited talks and presentations 
 
 
+- 2024 – Russia’s region and war in Ukraine. (**CSIS. Center for Strategic and International Studies**).
+- 2024 – Demographic growth as an indicator of unresolved conflict. (**New Voices of Eurasia. GWU**).
+- 2024 – Chechnya as a unique case in Russian Federation. (**Command & Staff College, Marine Corps University**).
 - 2023 – Chechen lessons for the World. Keck Center (**Claremont McKenna College**). 
 - 2023 - Foreign Fighters in the Former Soviet Union (**Ottawa, Canada**)
 - 2023 – Workshop for Bolashak Fellows. How to write a book proposal (**GWU**). 
