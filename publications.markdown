@@ -12,7 +12,7 @@ permalink: /publications/
 **[https://scholar.google.com/citations?hl=en&user=Qkj6TgoAAAAJ](https://scholar.google.com/citations?hl=en&user=Qkj6TgoAAAAJ)**
 
 
-2024. “**The Clash of Collective Memories in Postwar Chechnya**.” 2024. _Problems of Post-Communism_. [https://doi.org/10.1080/10758216.2024.2340565](https://doi.org/10.1080/10758216.2024.2340565).
+2024. “**The Clash of Collective Memories in Postwar Chechnya**.” 2025. _Problems of Post-Communism_. [https://doi.org/10.1080/10758216.2024.2340565](https://doi.org/10.1080/10758216.2024.2340565).
 
 2024. “**Russia's war strategies: what Chechnya suggests for Ukraine**.” 2024. _Post-Soviet Affairs_. (with Y. Herrera). [http://dx.doi.org/10.1080/1060586X.2024.2330882](http://dx.doi.org/10.1080/1060586X.2024.2330882).
 
@@ -55,23 +55,23 @@ permalink: /publications/
 
 ## Non-referenced Book Chapters and Reports
 
-2020  Report. 2020.  **[Radicalization and Resilience. Case Study: Russia](http://grease.eui.eu/wp-content/uploads/sites/8/2020/10/WP4-Report_Russia-1.pdf)**. 
+Report. 2020.  **[Radicalization and Resilience. Case Study: Russia](http://grease.eui.eu/wp-content/uploads/sites/8/2020/10/WP4-Report_Russia-1.pdf)**. 
 
-2019  Report. 2019.  **[Radicalization in Russia. The roots and causes of Islamist radicalization in Russia: the state's response.](http://grease.eui.eu/wp-content/uploads/sites/8/2019/10/Russia-Report.pdf)**
+Report. 2019.  **[Radicalization in Russia. The roots and causes of Islamist radicalization in Russia: the state's response.](http://grease.eui.eu/wp-content/uploads/sites/8/2019/10/Russia-Report.pdf)**
 
-2019  Chapter. 2019. **[Nation and Religion-Reflections on Europe, the MENA Region and South Asia](http://grease.eui.eu/wp-content/uploads/sites/8/2019/05/GREASE-concept-paper_D1.3_Nation-and-Religion_30May2019_FINAL1-2.pdf) (with Triandafyllidou, A., H. Gülalp, G., Mahajan, and E. Racius).**
+Chapter. 2019. **[Nation and Religion-Reflections on Europe, the MENA Region and South Asia](http://grease.eui.eu/wp-content/uploads/sites/8/2019/05/GREASE-concept-paper_D1.3_Nation-and-Religion_30May2019_FINAL1-2.pdf) (with Triandafyllidou, A., H. Gülalp, G., Mahajan, and E. Racius).**
 
-2013  Chapter. 2013. **Odds and Peculiarities of Family Life in the Caucasus** In Sipaviciene, Audra, and Rita Augutiene (eds.). *Handbook for Social Workers*. Vilnius: Baltijos kopija, 99-125.
+Chapter. 2013. **Odds and Peculiarities of Family Life in the Caucasus** In Sipaviciene, Audra, and Rita Augutiene (eds.). *Handbook for Social Workers*. Vilnius: Baltijos kopija, 99-125.
 
-2008  Chapter. 2008. **Models of Behaviour and Islam in Chechen Society** In Sipaviciene, Audra, and Rita Augutiene (eds.). *Handbook for Social Workers*. Vilnius: Baltijos kopija, 35-48.
+Chapter. 2008. **Models of Behaviour and Islam in Chechen Society** In Sipaviciene, Audra, and Rita Augutiene (eds.). *Handbook for Social Workers*. Vilnius: Baltijos kopija, 35-48.
 
-2007  Chapter. 2007. **The Impact of the Regional Organisations to the Dis/Integration of the CIS** In Motieka, Egidijus (ed.). *Nepriklausomų valstybių sandraugos raidos tendencijos: integraciją skatinantys ir ribojantys veiksniai* [CIS: Factors Restraining and Stimulating Integration and Development]. Vilnius: University Press, 35-69.
+Chapter. 2007. **The Impact of the Regional Organisations to the Dis/Integration of the CIS** In Motieka, Egidijus (ed.). *Nepriklausomų valstybių sandraugos raidos tendencijos: integraciją skatinantys ir ribojantys veiksniai* [CIS: Factors Restraining and Stimulating Integration and Development]. Vilnius: University Press, 35-69.
 
 ## Book reviews
 
-2024. Bonds of Blood? State-Building and Clanship in Chechnya and Ingushetia, by E. Sokirianskaya. _State Crime Journal_, _13_(1), 119-121. (2024).
+Bonds of Blood? State-Building and Clanship in Chechnya and Ingushetia, by E. Sokirianskaya. _State Crime Journal_, _13_(1), 119-121. (2024).
 
-2025. [**From Conquest to Deportation: The North Caucasus under Russian Rule**](https://doi.org/10.1163/22117954-12341414), by Jeronim Perović. *Journal of Muslims in Europe*, *9*(1), 131-134. (2020).
+[**From Conquest to Deportation: The North Caucasus under Russian Rule**](https://doi.org/10.1163/22117954-12341414), by Jeronim Perović. *Journal of Muslims in Europe*, *9*(1), 131-134. (2020).
 
 
 
