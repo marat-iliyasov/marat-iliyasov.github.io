@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Consultancy
-permalink: /portfolio/
+permalink: /consultancy/
 ---
 
 # Consultancy
