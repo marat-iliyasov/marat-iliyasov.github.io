@@ -4,7 +4,7 @@ title: Consultancy
 permalink: /portfolio/
 ---
 
-# Portfolio
+# Consultancy
 
 - Open-source research on post-Communist Eurasia in Russian, Lithuanian, and Chechen
 
