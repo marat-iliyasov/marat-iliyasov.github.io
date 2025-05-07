@@ -46,7 +46,7 @@ permalink: /publications/
 
 2027. **“Russia and the Russian-Chechen Conflict in the Collective Memory of Chechen Migrants in Europe.”** 2024. In C. Druey, M., Shogenov, and V., Tanailova (eds.) _Fighting for Self-Determination, Participation and Stability State-building, Civil Society and the Role of Historical Memories in Chechnya (1986 – 2021)._ Peter Lang Publishers.
 
-2028. “**Chechnya.**” In Hale, H. et al. (eds.) D_evelopments in Russian Politics. Textbook.  Bloomsbury. 2024  **[Religious legitimation: indoctrination, de-legitimation, and pacification efforts in Chechnya](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003090632-6/religious-self-legitimation-indoctrination-pacification-efforts-chechen-government-marat-iliyasov).** In G. Yemelianova and E. Racius (eds.) *Routledge Handbook. Muslims of Post-Communist Eurasia*. Routledge.
+2028. “**Chechnya.**” In Hale, H. et al. (eds.) D_evelopments in Russian Politics. Textbook.  Bloomsbury. 2024.  **[Religious legitimation: indoctrination, de-legitimation, and pacification efforts in Chechnya](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003090632-6/religious-self-legitimation-indoctrination-pacification-efforts-chechen-government-marat-iliyasov).** In G. Yemelianova and E. Racius (eds.) *Routledge Handbook. Muslims of Post-Communist Eurasia*. Routledge.
 
 2029. **“Religious legitimation:** **indoctrination, de-legitimation, and pacification efforts in Chechnya.”** 2022. In G. Yemelianova and E. Racius (eds.). _Routledge Handbook. Muslims of Post-Communist Eurasia_. Routledge.
  
