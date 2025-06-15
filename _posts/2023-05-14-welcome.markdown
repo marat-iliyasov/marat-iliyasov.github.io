@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Welcome!"
-date:   2023-05-14 11:59:44 -0400
----
-- Welcome to my website. It introduces my work as political scientist, researcher, analyst, and educator.  
-
