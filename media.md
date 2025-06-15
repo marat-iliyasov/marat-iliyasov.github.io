@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Media
+navbar_title: Media
 permalink: /media/
 ---
 # Media

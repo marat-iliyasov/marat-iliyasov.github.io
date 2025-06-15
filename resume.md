@@ -1,5 +1,6 @@
 ---
 title: Resume
+navbar_title: Resume
 permalink: /resume/
 ---
 # Resume

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research Projects
+navbar_title: Research Projects
 permalink: /research-projects/
 ---
 # Research Projects

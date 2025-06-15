@@ -4,14 +4,12 @@ navbar_name: "Marat Iliyasov"
 
 positions:
 - logo: /assets/images/badges/college_of_the_holy_cross_logo.jpg  # Logo is optional
-  name: Visiting Assistant Professor - *College of the Holy Cross*
-- logo: /assets/images/badges/vytauto_didiojo_universitetas_logo.jpg  # Logo is optional
-  name: Researcher - *Vytauto Didžiojo universitetas*
+  name: Visiting Assistant Professor - <em>College of the Holy Cross</em>
 
 email: "milyasov@holycross.edu"
 cv_link: /resume
 gscholar: Qkj6TgoAAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
+#github: your_github_id
 #twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -19,14 +17,19 @@ github: your_github_id
 linkedin: marat-iliyasov-25837614b
 orcid: 0000-0003-0703-4716
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
     <ul>
         <li> A Chechen Scholar of International Relations and Comparative Politics. I focus on Russo-Chechen war and post-war relations; post-Soviet conflicts in wider Eurasia; religious radicalization and governance of religions, authoritarianism and memory politics in Russia and Chechnya.</li>
+        &nbsp;
         <li> My journey in the realm of academia commenced in 2013 with the initiation of my Ph.D. program at the University of St Andrews. The profound impact of my previous pursuits, namely my MAs in Caucasus Studies and International Relations, played a pivotal role in shaping my decision to pursue a Ph.D.</li>
+        &nbsp;
         <li> Under the expert guidance of Professor Rick Fawn and Dr. Jeffrey Murer, my supervisors, my inherent curiosity was nurtured, transforming me into a passionate and meticulous researcher and educator. My areas of focus encompass political, economic, and social issues within the broader Eurasian context.</li>
+        &nbsp;
         <li> Before venturing into the academic realm, from 2003 to 2010, I garnered invaluable experience as a journalist for national newspapers in Lithuania. This role instilled in me the necessary discipline in writing and honed the skills that later aided me in my publications.</li>
+        &nbsp;
         <li> Between 2006 and 2008, I served as a member of the renowned think-tank "Center for Strategic Studies" in Lithuania. With a particular focus on analyzing the wider Eurasian region, the Center provided regular consultancy services to the Government and Ministry of Foreign Affairs. Additionally, I had the opportunity to offer my insights to the US State Department regarding the motives behind the Russian invasion of Ukraine in 2022.</li>
+        &nbsp;
         <li> Furthermore, I have gained experience working in the NGO sector. Witnessing the onset of the second Russo-Chechen war and the subsequent influx of Chechen refugees to Lithuania in 1999, I took the initiative to establish an NGO. Through this organization, we designed and implemented projects aimed at facilitating the integration of Chechen children into Lithuanian society. My involvement with NGOs continued in Georgia from 2011 to 2013, where I worked at the "Caucasian House" on a project that fostered communication between mid-level Georgian and Russian professionals, laying the groundwork for peace dialogue.</li>
     </ul>
 
@@ -42,7 +45,7 @@ education:
 - name: Ilia State University, Georgia
   logo: /assets/images/badges/Ilia_State_University.png
   position: M.A. "Caucasus Studies"
-  date: Sep. 2019 - Jul. 2021
+  date: 2011 – 2013
 - name: Vilnius University, Lithuania
   logo: /assets/images/badges/vilnius-university-logo-png_seeklogo-499121.webp
   position: M.A. "Diplomacy and Negotiaion"
@@ -52,11 +55,11 @@ education:
   position: B.A. International Relations and Political Sciences
   date: 1998 - 2002
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+ - name: School of Politics and Social Sciences, Edinburgh University
+   logo: /assets/images/badges/edinburgh.webp
+   position: Teaching Assistant
+   date: Sep. 2017 - Aug. 2018
 
 awards:
 - name: Kennan Fellowship by Kennan Institute (Wilson Centre).

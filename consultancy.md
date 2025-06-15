@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Consultancy
+navbar_title: Consultancy
 permalink: /consultancy/
 ---
 
