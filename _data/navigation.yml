@@ -7,8 +7,8 @@ pages:
   url: /publications
 - name: Experience
   url: /experience
-- name: Resume
-  url: /resume
+- name: CV
+  url: /cv
 - name: Research Projects
   url: /research-projects
 - name: Media
