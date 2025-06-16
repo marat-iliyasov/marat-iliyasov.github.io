@@ -3,8 +3,7 @@ secondary_name: ""
 navbar_name: "Marat Iliyasov"
 
 positions:
-- logo: /assets/images/badges/Holy Cross_Social Avatar_Purple.png  # Logo is optional
-  name: Visiting Assistant Professor – <em>College of the Holy Cross</em>
+- name: Visiting Assistant Professor – <em>College of the Holy Cross</em>
 
 email: "milyasov@holycross.edu"
 cv_link: /cv
