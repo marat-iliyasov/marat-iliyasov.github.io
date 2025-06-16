@@ -11,7 +11,7 @@ permalink: /research-projects/
 
 EU-funded Global Research
 
-<img height="250px" src="https://marat-iliyasov.github.io/assets/img/temple.jpeg" alt="Photo of The Temple of all religions">
+<img height="250px" src="https://marat-iliyasov.github.io/assets/images/page_images/temple.jpeg" alt="Photo of The Temple of all religions">
 
 The GREASE project has been a collaborative effort that brought together researchers and eminent scholars from Europe, South & Southeast Asia, Asia Pacific, and the MENA region. Over the course of four years, the consortium conducted extensive research to investigate how religious diversity is governed in more than two dozen countries. By comparing norms, laws, and practices, the project aimed to identify valuable lessons that the West could learn from other parts of the world when it comes to governing religious diversity and preventing religious radicalization. Additionally, the research provided valuable insights into different societal approaches to accommodating religious minorities and migrants. By embracing the lessons learned from other parts of the world, the West can work towards building a more inclusive, tolerant, and cohesive society that respects the rights of religious minorities and fosters harmonious coexistence. The project's findings can serve as a foundation for developing effective policies and practices that promote religious pluralism and social cohesion.
 
@@ -45,7 +45,7 @@ Religion can play very diverse roles in the political and mundane life of states
 
 **Procreation for the sake of the nation (Book)** 
 
-<img height="250px" src="https://marat-iliyasov.github.io/assets/img/wedding.jpg" alt="Photo of the secret wedding during war in Chechnya">
+<img height="250px" src="https://marat-iliyasov.github.io/assets/images/page_images/wedding.jpg" alt="Photo of the secret wedding during war in Chechnya">
 
 *This book is about Chechen determination to survive as a nation by growing numerically despite the war and despair.*
 
@@ -57,7 +57,7 @@ Your country is at war, your fiancé is hunted by enemy forces, public services 
 
 **Chechen Lessons for Post-Soviet States and the World (Book)** 
 
-<img height="250px" src="https://marat-iliyasov.github.io/assets/img/chechnya.jpg" alt="Photo of a woman mourning the victims of the Deportation during the war in Chechnya">
+<img height="250px" src="https://marat-iliyasov.github.io/assets/images/page_images/chechnya.jpg" alt="Photo of a woman mourning the victims of the Deportation during the war in Chechnya">
 
 *This book will provide an empirically based theoretical contribution to fill the gap that exists in scholarship due to the lack of decolonial perspective from non-Russian nations on democratization of the post-Soviet Russia, which turned into neo-imperialism.*
 
