@@ -1,5 +1,5 @@
 ---
-title:          "Procreation for the sake of the Nation. Chechen determination to survive"
+title:          "Procreation for the Sake of the Nation. Chechen Determination to Survive"
 date:           2025-06-16
 selected:       true
 pub:            "Bloomsbury"
