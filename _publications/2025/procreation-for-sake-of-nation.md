@@ -8,9 +8,9 @@ pub:            "Bloomsbury"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Coming Soon</span>'
 pub_date:       "2025"
 
-#abstract: >-
-#  Established shortly after the beginning of the Second Russo-Chechen war of 1999–2009, the Russian-backed Chechen government is actively engaged in a reinterpretation of the nation’s history. The Chechen political elite that ruled the republic during its independence (1991–1999) opposes these efforts and promotes a version of history that dominated Chechen public discourse in the 1990s. Relying on qualitative methodology, this article explores Chechen memory politics of the past three decades through these two dominant clashing interpretations. The article answers the question: What Chechen collective memories are the most contested and why?
-# cover:          /assets/images/covers/cover3.jpg
+abstract: >-
+  Your country is at war, your fiancé is hunted by enemy forces, public services are shuttered, and you have little to no possibility to earn a living… Would you plan to get married and have a child in such a situation? If you were a Chechen, you would. As I observed personally, many Chechens were opting to have a family during the 1994-1996 war with Russia that was destroying this small region in the North Caucasus. The pattern repeated during the second, even more brutal Russo-Chechen war in 1999-2009. This predisposition to have family and children that I noticed in war-torn Chechnya is confirmed by the available scholarly estimates of birth rates in Chechnya during the war and post-war demographic statistics. Statistical analysis confirms the tendency of Chechen demographic growth, which is striking and anomalous in the context of the general population decline in the Russian Federation. According to censuses and estimates, the Chechen nation grows 5-10% faster than even the neighboring North Caucasian ethnic groups, that live in similarly urbanized and almost the same economic, religious, and sociocultural environments. I attribute this phenomenon to the war-related loss, which constituted up to 20% of the Chechen population.
+ cover: /assets/images/page_images/wedding.jpg
 authors:
   - Marat Iliyasov
 links:
