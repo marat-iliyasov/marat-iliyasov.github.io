@@ -2,7 +2,7 @@
 title:          "Russia’s war strategy: what Chechnya suggests for Ukraine"
 date:           2024-12-31
 selected:       true
-pub:            "Post-Soviet Affairs."
+pub:            "Post-Soviet Affairs"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'

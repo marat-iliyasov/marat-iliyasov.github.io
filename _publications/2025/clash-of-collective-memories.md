@@ -2,7 +2,7 @@
 title:          "The Clash of Collective Memories in Postwar Chechnya"
 date:           2025-06-15
 selected:       true
-pub:            "Problems of Post-Communism."
+pub:            "Problems of Post-Communism"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
