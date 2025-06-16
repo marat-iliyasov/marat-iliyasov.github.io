@@ -1,6 +1,6 @@
 ---
 title:          "To Be or Not to Be a Chechen? The Second Generation of Chechens in Europe and Their Choices of Identity"
-date:           2021-06-21
+date:           2021-03-30
 selected:       true
 pub:            "The Frontiers of Sociology"
 # pub_pre:        "Submitted to "
