@@ -1,12 +1,12 @@
 ---
-title:          "Review of <em>Bonds of Blood? State-Building and Clanship in Chechnya and Ingushetia by E. Sokirianskaia</em>"
-date:           2024-01-01
+title:          "Review of <em>From Conquest to Deportation: The North Caucasus under Russian Rule, written by Jeronim Perović</em>"
+date:           2020-03-09
 selected:       false
-pub:            "Pluto Journals"
+pub:            "Journal of Muslims in Europe"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2024"
+pub_date:       "2020"
 
 #abstract: >-
 
@@ -14,5 +14,5 @@ pub_date:       "2024"
 authors:
   - Marat Iliyasov
 links:
-  "Book Review": https://www.jstor.org/stable/48782654
+  "Book Review": https://doi.org/10.1163/22117954-12341414
 ---
