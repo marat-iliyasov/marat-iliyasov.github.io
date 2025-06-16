@@ -11,6 +11,10 @@ pages:
   url: /cv
 - name: Research Projects
   url: /research-projects
+- name: Consultancy
+  url: /consultancy
+- name: Courses Taught
+  url: /courses-taught  
 - name: Media
   url: /media
 - name: Invited Talks

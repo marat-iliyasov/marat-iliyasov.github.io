@@ -14,5 +14,5 @@ abstract: >-
 authors:
   - Marat Iliyasov
 links:
-  Article: https://cyberleninka.ru/article/n/instability-in-the-northern-caucasus-reasons-factors-and-implications
+  Article: https://cyberleninka.ru/article/n/instability-in-the-northern-caucasus-reasons-factors-and-implications/pdf
 ---
