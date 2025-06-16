@@ -4,7 +4,7 @@ navbar_name: "Marat Iliyasov"
 
 positions:
 - logo: /assets/images/badges/college_of_the_holy_cross_logo.jpg  # Logo is optional
-  name: Visiting Assistant Professor - <em>College of the Holy Cross</em>
+  name: Visiting Assistant Professor – <em>College of the Holy Cross</em>
 
 email: "milyasov@holycross.edu"
 cv_link: /cv
@@ -41,7 +41,7 @@ education:
 - name: University of St. Andrews, Scotland
   logo: /assets/images/badges/University_of_St_Andrews_arms.svg.png
   position: Ph.D. in International Relations
-  date: 2013 - 2017
+  date: 2013 – 2017
 - name: Ilia State University, Georgia
   logo: /assets/images/badges/Ilia_State_University.png
   position: M.A. "Caucasus Studies"
@@ -49,45 +49,45 @@ education:
 - name: Vilnius University, Lithuania
   logo: /assets/images/badges/vilnius-university-logo-png_seeklogo-499121.webp
   position: M.A. "Diplomacy and Negotiaion"
-  date: 2002 - 2004
+  date: 2002 – 2004
 - name: Vilnius University, Lithuania
   logo: /assets/images/badges/vilnius-university-logo-png_seeklogo-499121.webp
   position: B.A. International Relations and Political Sciences
-  date: 1998 - 2002
+  date: 1998 – 2002
 
 experience:
  - name: College of the Holy Cross
    logo: /assets/images/badges/college_of_the_holy_cross_logo.jpg
    position: Visiting Assistant Professor
-   date: Jul. 2024 - Present
+   date: Jul. 2024 – Present
  - name: Global Russia Academy (Elliott School of International Affairs)
    logo: /assets/images/badges/gwu.png
    position: Research Fellow
-   date: Sep. 2017 - Aug. 2018
+   date: Sep. 2017 – Aug. 2018
  - name: Miami University
    logo: /assets/images/badges/miami.png
    position: Visiting Assistant Professor
-   date: Sep. 2022 - Jun. 2023
+   date: Sep. 2022 – Jun. 2023
  - name: Wisconsin Russia Project
    logo: /assets/images/badges/wrp.png
    position: Post-Doctoral Researcher 
-   date: Sep. 2021 - Aug. 2022
+   date: Sep. 2021 – Aug. 2022
  - name: Vytautas Magnus University, Lithuania
    logo: /assets/images/badges/vytautas_magnus_university.jpg
    position: Researcher
-   date: Dec. 2018 - Sep. 2022
+   date: Dec. 2018 – Sep. 2022
  - name: School of IR, University of St. Andrews
    logo: /assets/images/badges/University_of_St_Andrews_arms.svg.png
    position: Associate Lecturer
-   date: Sep. 2019 - Sep. 2020
+   date: Sep. 2019 – Sep. 2020
  - name: School of IR, University of St. Andrews
    logo: /assets/images/badges/University_of_St_Andrews_arms.svg.png
    position: Teaching Assistant
-   date: Sep. 2014 - Aug. 2018
+   date: Sep. 2014 – Aug. 2018
  - name: School of Politics and Social Sciences, Edinburgh University
    logo: /assets/images/badges/edinburgh.webp
    position: Teaching Assistant
-   date: Sep. 2017 - Aug. 2018
+   date: Sep. 2017 – Aug. 2018
 
 awards:
 - name: Kennan Fellowship by Kennan Institute (Wilson Centre).
