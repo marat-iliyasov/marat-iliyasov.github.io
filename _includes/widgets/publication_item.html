@@ -2,7 +2,7 @@
 <div class="d-none d-md-block">
     <div class="row no-gutters {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray">
         {%- if item.cover -%}
-        <div class="col-md-3 col-xl-2 mb-md-0 p-md-3 align-self-center">
+        <div class="col-md-3 col-xl-2 mb-md-0 p-md-3 {%- if item.centercover -%}align-self-center{%- endif -%}">
             <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
         </div>
         <div class="col-md-9 col-xl-10 p-3 pl-md-0">
