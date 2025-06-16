@@ -1,5 +1,5 @@
 ---
-title:          "The Frontiers of Sociology"
+title:          "To Be or Not to Be a Chechen? The Second Generation of Chechens in Europe and Their Choices of Identity"
 date:           2021-06-21
 selected:       true
 pub:            "The Frontiers of Sociology"
