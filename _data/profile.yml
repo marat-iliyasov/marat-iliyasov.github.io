@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Marat Iliyasov"
 
 positions:
-- logo: /assets/images/badges/college_of_the_holy_cross_logo.jpg  # Logo is optional
+- logo: /assets/images/badges/Holy Cross_Social Avatar_Purple.png  # Logo is optional
   name: Visiting Assistant Professor – <em>College of the Holy Cross</em>
 
 email: "milyasov@holycross.edu"
@@ -57,7 +57,7 @@ education:
 
 experience:
  - name: College of the Holy Cross
-   logo: /assets/images/badges/college_of_the_holy_cross_logo.jpg
+   logo: /assets/images/badges/Holy Cross_Social Avatar_Purple.png
    position: Visiting Assistant Professor
    date: Jul. 2024 – Present
  - name: Global Russia Academy (Elliott School of International Affairs)
