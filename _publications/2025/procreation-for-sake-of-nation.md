@@ -2,7 +2,7 @@
 title:          "Procreation for the sake of the Nation. Chechen determination to survive"
 date:           2025-06-16
 selected:       true
-pub:            "Problems of Post-Communism"
+pub:            "Bloomsbury"
 # pub_pre:        "Submitted to "
 #pub_post:       'Forthcoming.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Coming Soon</span>'
